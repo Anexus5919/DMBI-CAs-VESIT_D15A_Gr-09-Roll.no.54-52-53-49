@@ -372,7 +372,7 @@
     "kept": 109,
     "stable": 107,
     "stable_pct": 98.2,
-    "seconds": 22.2,
+    "seconds": 19.9,
     "base_train": 27.64,
     "base_test": 27.0,
     "lift_corr": 0.946,
@@ -1095,5 +1095,5 @@
       "Camden": 4
     }
   },
-  "runtime_minutes": 17.5
+  "runtime_minutes": 21.6
 }
