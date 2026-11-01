@@ -22,7 +22,7 @@ Data Mining and Business Intelligence, Semester V, 2026-27.
 A road authority has a limited safety budget. This project uses five years of real police collision records to find where collisions that kill or seriously injure (KSI) concentrate, which conditions raise that risk, and which sites to review first.
 
 - **Data:** 513,801 collisions from the UK Department for Transport STATS19 record, 2021 to 2025.
-- **Reference paper:** Kumar, S. and Toshniwal, D. (2015). A data mining framework to analyze road accident data. *Journal of Big Data*, 2, 26. https://doi.org/10.1186/s40537-015-0035-y
+- **Reference paper:** Kumar, S. and Toshniwal, D. (2015). A data mining framework to analyze road accident data. *Journal of Big Data*, 2, 26. https://link.springer.com/article/10.1186/s40537-015-0035-y
 - **SDG goal:** SDG 3 (target 3.6, road deaths and injuries) and SDG 11 (sustainable cities and safe transport).
 
 Results below are tested on 2025, a year not used for mining or training.
