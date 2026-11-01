@@ -35,7 +35,7 @@ Results below are tested on 2025, a year not used for mining or training.
 | Severity | Random Forest, best of 4 | ROC-AUC 0.679, PR-AUC 0.440 against 0.270 by chance |
 | What next | Poisson boosting on 500 m cells | ROC-AUC 0.764 against 0.680 for a past-count list; 2.13 more points of KSI covered at 5,000 sites |
 
-Open `blackspot_map.html` for the interactive map of hotspots and 2026 priority sites. The full ranked list is in `results/priority_sites_2026.csv`.
+Download `blackspot_map.html` and open it in a browser for the interactive map of hotspots and 2026 priority sites. GitHub shows only its source code. The full ranked list is in `results/priority_sites_2026.csv`.
 
 **Limits.** STATS19 covers police-reported injury collisions only and has no traffic volumes. Rules and models show association, not cause, and no crash reduction is claimed. The numbers describe Great Britain; the method could run on India's eDAR records, but the numbers do not transfer.
 
