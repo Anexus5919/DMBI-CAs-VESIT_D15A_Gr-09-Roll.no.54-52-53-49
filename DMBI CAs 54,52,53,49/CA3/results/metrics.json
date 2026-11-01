@@ -1,0 +1,220 @@
+{
+  "verification": {
+    "random_databases_matched_brute_force": 300
+  },
+  "toy": {
+    "prices": {
+      "Bread": 1,
+      "Milk": 1,
+      "Eggs": 2,
+      "Wine": 15,
+      "Cheese": 7
+    },
+    "baskets": [
+      {
+        "Bread": 2,
+        "Milk": 1
+      },
+      {
+        "Bread": 1,
+        "Milk": 2,
+        "Eggs": 1
+      },
+      {
+        "Bread": 1,
+        "Eggs": 2
+      },
+      {
+        "Bread": 1,
+        "Milk": 1
+      },
+      {
+        "Wine": 2,
+        "Cheese": 1
+      },
+      {
+        "Wine": 1,
+        "Cheese": 2,
+        "Bread": 1
+      }
+    ],
+    "minutil": 30,
+    "bread_milk": {
+      "itemset": "Bread + Milk",
+      "support": 3,
+      "utility": 8
+    },
+    "wine": {
+      "itemset": "Wine",
+      "support": 2,
+      "utility": 45
+    },
+    "cheese": {
+      "itemset": "Cheese",
+      "support": 2,
+      "utility": 21
+    },
+    "wine_cheese": {
+      "itemset": "Cheese + Wine",
+      "support": 2,
+      "utility": 66
+    },
+    "high_utility": [
+      [
+        "Cheese + Wine",
+        66.0
+      ],
+      [
+        "Wine",
+        45.0
+      ],
+      [
+        "Bread + Cheese + Wine",
+        30.0
+      ]
+    ],
+    "stats": {
+      "items_total": 5,
+      "items_after_twu": 3,
+      "pair_candidates": 3,
+      "lists_built": 7,
+      "pairs_skipped": 0,
+      "branches_pruned": 1
+    }
+  },
+  "data": {
+    "raw_rows": 541909,
+    "rows_clean": 524621,
+    "invoices": 19636,
+    "items": 3786,
+    "revenue_total": 9873955,
+    "cancelled_pairs_removed": 3188,
+    "avg_items_per_basket": 26.2,
+    "date_from": "2010-12-01",
+    "date_to": "2011-12-09",
+    "universe": 300,
+    "universe_revenue_pct": 54.7,
+    "baskets_in_universe": 17997,
+    "largest_basket": 1106,
+    "largest_basket_in_universe": 214
+  },
+  "compare": {
+    "min_support_pct": 1.0,
+    "minutil": 24685,
+    "minutil_pct_of_revenue": 0.25,
+    "max_len": 3,
+    "frequent_itemsets_size2plus": 1400,
+    "high_utility_total": 825,
+    "high_utility_size2plus": 777,
+    "top20_overlap": 2,
+    "top_freq_utility_total": 664360,
+    "top_util_utility_total": 1096425,
+    "utility_gain_ratio": 1.65,
+    "missed_by_support": 603,
+    "missed_pct": 77.6,
+    "top_util_rare_in_top20": 9,
+    "apriori_seconds": 1.94,
+    "hui_seconds": 64.92,
+    "top_freq": [
+      {
+        "itemset": "Jumbo Bag Pink Polkadot + Jumbo Bag Red Retrospot",
+        "support": 819,
+        "utility": 63091
+      },
+      {
+        "itemset": "Green Regency Teacup And Saucer + Roses Regency Teacup And Saucer",
+        "support": 759,
+        "utility": 38337
+      },
+      {
+        "itemset": "Jumbo Bag Red Retrospot + Jumbo Storage Bag Suki",
+        "support": 717,
+        "utility": 41869
+      },
+      {
+        "itemset": "Jumbo Bag Red Retrospot + Jumbo Shopper Vintage Red Paisley",
+        "support": 677,
+        "utility": 36285
+      },
+      {
+        "itemset": "Lunch Bag Red Retrospot + Lunch Bag Suki Design",
+        "support": 652,
+        "utility": 27222
+      }
+    ],
+    "top_util": [
+      {
+        "itemset": "Party Bunting + Regency Cakestand 3 Tier",
+        "support": 385,
+        "utility": 66896
+      },
+      {
+        "itemset": "Jumbo Bag Pink Polkadot + Jumbo Bag Red Retrospot",
+        "support": 819,
+        "utility": 63091
+      },
+      {
+        "itemset": "Regency Cakestand 3 Tier + Roses Regency Teacup And Saucer",
+        "support": 515,
+        "utility": 58708
+      },
+      {
+        "itemset": "Paper Chain Kit 50'S Christmas + Paper Chain Kit Vintage Christmas",
+        "support": 547,
+        "utility": 58566
+      },
+      {
+        "itemset": "Jumbo Bag Red Retrospot + Jumbo Bag Strawberry",
+        "support": 533,
+        "utility": 57605
+      }
+    ],
+    "search": {
+      "items_total": 300,
+      "items_after_twu": 300,
+      "pair_candidates": 33241,
+      "lists_built": 1448423,
+      "pairs_skipped": 36022,
+      "branches_pruned": 16202
+    }
+  },
+  "effort": [
+    {
+      "minutil_pct": 1.0,
+      "minutil": 98740,
+      "high_utility_itemsets": 2,
+      "items_total": 300,
+      "items_after_twu": 298,
+      "pair_candidates": 8557,
+      "lists_built": 27596,
+      "pairs_skipped": 36696,
+      "branches_pruned": 8060,
+      "seconds": 1.85
+    },
+    {
+      "minutil_pct": 0.5,
+      "minutil": 49370,
+      "high_utility_itemsets": 30,
+      "items_total": 300,
+      "items_after_twu": 300,
+      "pair_candidates": 20701,
+      "lists_built": 295671,
+      "pairs_skipped": 33597,
+      "branches_pruned": 16203,
+      "seconds": 16.41
+    },
+    {
+      "minutil_pct": 0.25,
+      "minutil": 24685,
+      "high_utility_itemsets": 825,
+      "items_total": 300,
+      "items_after_twu": 300,
+      "pair_candidates": 33241,
+      "lists_built": 1448423,
+      "pairs_skipped": 36022,
+      "branches_pruned": 16202,
+      "seconds": 28.55
+    }
+  ],
+  "all_possible_pairs": 44850
+}

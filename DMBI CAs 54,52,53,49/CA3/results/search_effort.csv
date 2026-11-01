@@ -1,0 +1,4 @@
+minutil_pct,minutil,high_utility_itemsets,items_total,items_after_twu,pair_candidates,lists_built,pairs_skipped,branches_pruned,seconds
+1.0,98740,2,300,298,8557,27596,36696,8060,1.85
+0.5,49370,30,300,300,20701,295671,33597,16203,16.41
+0.25,24685,825,300,300,33241,1448423,36022,16202,28.55
