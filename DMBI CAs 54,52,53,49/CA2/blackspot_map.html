@@ -78,21 +78,7 @@
 
         
     
-            var tile_layer_1ddd0a5c8a278bf9eb9df1f0e6adfb20 = L.tileLayer(
-                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
-                {
-  "minZoom": 0,
-  "maxZoom": 20,
-  "maxNativeZoom": 20,
-  "noWrap": false,
-  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
-  "subdomains": "abcd",
-  "detectRetina": false,
-  "tms": false,
-  "opacity": 1,
-}
-
-            );
+            var tile_layer_1ddd0a5c8a278bf9eb9df1f0e6adfb20 = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {"attribution": "Tiles \u0026copy; Esri", "maxZoom": 18, "minZoom": 0});
         
     
             tile_layer_1ddd0a5c8a278bf9eb9df1f0e6adfb20.addTo(map_00e1545c77c2c9178804cc9f98dafdc7);
@@ -9318,7 +9304,7 @@
     
             var layer_control_adfe2544b31bc4c4da4c3be20a398424_layers = {
                 base_layers : {
-                    "cartodbpositron" : tile_layer_1ddd0a5c8a278bf9eb9df1f0e6adfb20,
+                    "Street map" : tile_layer_1ddd0a5c8a278bf9eb9df1f0e6adfb20,
                 },
                 overlays :  {
                     "Hotspots, top 300 of 804" : feature_group_5de4480522685a3c19462ffcc62b04d2,
