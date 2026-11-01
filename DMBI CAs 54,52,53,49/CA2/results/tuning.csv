@@ -1,0 +1,13 @@
+model,params,val_pr_auc,val_roc_auc
+Naive Bayes,{'alpha': 0.5},0.3939,0.6417
+Naive Bayes,{'alpha': 1.0},0.3939,0.6417
+Decision Tree,{'max_depth': 4},0.4041,0.6396
+Decision Tree,{'max_depth': 6},0.429,0.6565
+Decision Tree,{'max_depth': 8},0.4421,0.665
+Decision Tree,{'max_depth': 10},0.4467,0.6677
+Decision Tree,{'max_depth': 12},0.4453,0.6665
+Random Forest,"{'max_depth': 10, 'n_estimators': 200}",0.4575,0.6745
+Random Forest,"{'max_depth': 14, 'n_estimators': 200}",0.461,0.6784
+Random Forest,"{'max_depth': 18, 'n_estimators': 200}",0.4615,0.6793
+AdaBoost,{'n_estimators': 100},0.4483,0.6714
+AdaBoost,{'n_estimators': 200},0.4524,0.6746

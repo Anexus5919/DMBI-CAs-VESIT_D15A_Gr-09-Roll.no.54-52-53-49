@@ -1,0 +1,1001 @@
+ci,cj,rank,authority,road,lat,lon,score,collisions,ksi,fatal,pattern,review
+1065,361,1,City of London,A3,51.511,-0.088,10.12,73,23.0,0,Cycle,Cycle separation and junction protection review
+1063,362,2,City of London,A201,51.515,-0.104,9.646,71,28.0,0,Cycle,Cycle separation and junction protection review
+1063,358,3,Southwark,A201,51.497,-0.102,9.307,83,19.0,1,Cycle,Cycle separation and junction protection review
+1065,360,4,Southwark,A3,51.505,-0.089,8.778,77,19.0,0,Cycle,Cycle separation and junction protection review
+1059,361,5,Westminster,A401,51.511,-0.132,8.753,150,35.0,1,Pedestrian,Pedestrian crossing and speed review
+1058,362,6,Westminster,A40,51.515,-0.139,8.726,89,21.0,0,Cycle,Cycle separation and junction protection review
+1059,362,7,Westminster,A40,51.515,-0.131,8.685,150,29.0,0,Cycle,Cycle separation and junction protection review
+1069,369,8,Hackney,A107,51.546,-0.056,8.615,66,9.0,1,Cycle,Cycle separation and junction protection review
+1061,361,9,Westminster,A4,51.511,-0.118,8.589,67,19.0,1,Cycle,Cycle separation and junction protection review
+1060,359,10,Westminster,A302,51.501,-0.126,8.582,70,13.0,0,Cycle,Cycle separation and junction protection review
+914,680,11,Nottingham,A6008,52.956,-1.15,8.545,97,27.0,4,Pedestrian,Pedestrian crossing and speed review
+1062,351,12,Lambeth,A23,51.465,-0.113,8.465,75,7.0,0,Cycle,Cycle separation and junction protection review
+1067,369,13,Hackney,A10,51.546,-0.073,8.437,80,16.0,0,Cycle,Cycle separation and junction protection review
+1057,362,14,Westminster,A40,51.515,-0.145,8.411,84,19.0,0,Cycle,Cycle separation and junction protection review
+1068,353,15,Southwark,A202,51.474,-0.068,8.378,85,24.0,1,Cycle,Cycle separation and junction protection review
+1056,362,16,Westminster,A40,51.515,-0.153,8.337,85,20.0,0,Cycle,Cycle separation and junction protection review
+1066,364,17,Hackney,A1202,51.524,-0.079,8.326,90,20.0,0,Cycle,Cycle separation and junction protection review
+1046,359,18,Hammersmith and Fulham,A402,51.503,-0.225,8.324,67,13.0,0,Cycle,Cycle separation and junction protection review
+1069,370,19,Hackney,A107,51.55,-0.059,8.276,70,12.0,0,Cycle,Cycle separation and junction protection review
+1062,350,20,Lambeth,A23,51.462,-0.114,8.269,107,24.0,2,Pedestrian,Pedestrian crossing and speed review
+1064,359,21,Southwark,A3,51.501,-0.096,8.224,81,16.0,1,Cycle,Cycle separation and junction protection review
+1055,358,22,Kensington and Chelsea,A4,51.498,-0.161,8.217,66,11.0,0,Junction,Junction layout and signal review
+1074,365,23,Tower Hamlets,A11,51.527,-0.023,8.175,83,10.0,0,Cycle,Cycle separation and junction protection review
+1065,353,24,Southwark,A202,51.474,-0.091,8.175,105,23.0,0,Cycle,Cycle separation and junction protection review
+1071,364,25,Tower Hamlets,A11,51.522,-0.046,8.15,66,10.0,0,Cycle,Cycle separation and junction protection review
+1067,356,26,Southwark,A2,51.488,-0.075,8.15,75,17.0,1,Cycle,Cycle separation and junction protection review
+1066,365,27,Hackney,A10,51.527,-0.08,8.131,103,17.0,0,Cycle,Cycle separation and junction protection review
+1062,208,28,Brighton and Hove,A23,50.823,-0.138,8.095,74,16.0,1,Cycle,Cycle separation and junction protection review
+1064,357,29,Southwark,A215,51.492,-0.096,8.05,87,20.0,0,Cycle,Cycle separation and junction protection review
+1055,362,30,Westminster,A5,51.515,-0.161,7.957,70,10.0,0,Cycle,Cycle separation and junction protection review
+1060,362,31,Camden,A40,51.515,-0.125,7.912,71,8.0,1,Cycle,Cycle separation and junction protection review
+1060,365,32,Camden,A501,51.53,-0.124,7.772,77,10.0,1,Cycle,Cycle separation and junction protection review
+669,780,33,Liverpool,B5339,53.405,-2.982,4.946,65,22.361,0,Pedestrian,Pedestrian crossing and speed review
+1076,361,34,Tower Hamlets,A1206,51.509,-0.009,4.944,75,16.0,1,Darkness,Lighting and conspicuity audit
+1056,359,35,Westminster,A4,51.503,-0.153,4.881,77,17.0,0,Cycle,Cycle separation and junction protection review
+1047,359,36,Hammersmith and Fulham,A402,51.504,-0.218,4.753,86,19.0,0,Motorcycle,Motorcycle route and junction visibility review
+912,680,37,Nottingham,A610,52.957,-1.165,4.643,53,11.0,0,Junction,Junction layout and signal review
+918,608,38,Leicester,A594,52.633,-1.126,4.613,36,10.472,0,Junction,Junction layout and signal review
+868,774,39,Sheffield,A61,53.381,-1.486,4.587,41,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1060,360,40,Westminster,A4,51.507,-0.126,4.464,94,26.0,0,Cycle,Cycle separation and junction protection review
+869,772,41,Sheffield,A61,53.373,-1.478,4.423,46,17.0,0,Darkness,Lighting and conspicuity audit
+1054,350,42,Wandsworth,A3036,51.462,-0.169,4.309,77,18.0,1,Cycle,Cycle separation and junction protection review
+1061,208,43,Brighton and Hove,B2066,50.823,-0.145,4.304,50,15.0,0,Pedestrian,Pedestrian crossing and speed review
+1051,359,44,Kensington and Chelsea,A315,51.502,-0.19,4.263,70,19.0,1,Cycle,Cycle separation and junction protection review
+1067,379,45,Haringey,A10,51.59,-0.07,4.263,68,10.0,0,Junction,Junction layout and signal review
+670,781,46,Liverpool,A5038,53.41,-2.976,4.248,45,18.328,1,Pedestrian,Pedestrian crossing and speed review
+668,780,47,Liverpool,A5036,53.406,-2.99,4.247,37,13.091,0,Pedestrian,Pedestrian crossing and speed review
+1067,375,48,Hackney,A10,51.573,-0.072,4.245,67,13.0,1,Junction,Junction layout and signal review
+1067,362,49,Tower Hamlets,A11,51.515,-0.074,4.245,87,14.039,0,Cycle,Cycle separation and junction protection review
+1054,363,50,Westminster,A5,51.52,-0.168,4.23,89,17.0,0,Cycle,Cycle separation and junction protection review
+1069,366,51,Tower Hamlets,A1208,51.532,-0.059,4.22,70,13.0,1,Cycle,Cycle separation and junction protection review
+1073,362,52,Tower Hamlets,A13,51.513,-0.029,4.22,68,20.0,2,Cycle,Cycle separation and junction protection review
+1055,363,53,Westminster,A41,51.521,-0.16,4.205,91,14.0,0,Cycle,Cycle separation and junction protection review
+1062,366,54,Islington,A1,51.533,-0.108,4.198,89,20.0,2,Cycle,Cycle separation and junction protection review
+1067,364,55,Tower Hamlets,A1209,51.524,-0.074,4.18,67,9.0,0,Cycle,Cycle separation and junction protection review
+1068,363,56,Tower Hamlets,A11,51.518,-0.066,4.156,78,15.0,0,Cycle,Cycle separation and junction protection review
+1058,361,57,Westminster,A4201,51.511,-0.139,4.156,74,10.0,0,Cycle,Cycle separation and junction protection review
+1067,370,58,Hackney,A10,51.55,-0.074,4.107,82,10.0,0,Cycle,Cycle separation and junction protection review
+1060,355,59,Lambeth,A3036,51.484,-0.125,4.103,77,20.0,0,Cycle,Cycle separation and junction protection review
+1018,857,60,"Kingston upon Hull, City of",A1105,53.744,-0.346,4.098,41,9.0,0,Junction,Junction layout and signal review
+1062,360,61,Lambeth,A301,51.505,-0.112,4.061,44,6.0,0,Cycle,Cycle separation and junction protection review
+718,347,62,"Bristol, City of",A38,51.461,-2.589,4.016,57,13.885,0,Cycle,Cycle separation and junction protection review
+719,346,63,"Bristol, City of",A420,51.457,-2.581,4.016,48,11.912,0,Cycle,Cycle separation and junction protection review
+1062,364,64,Islington,A201,51.523,-0.109,3.977,86,19.0,2,Cycle,Cycle separation and junction protection review
+1060,366,65,Camden,A5202,51.532,-0.123,3.926,49,15.0,0,Cycle,Cycle separation and junction protection review
+1061,359,66,Lambeth,A3200,51.501,-0.117,3.889,65,12.0,0,Cycle,Cycle separation and junction protection review
+1074,347,67,Lewisham,A205,51.445,-0.025,3.876,36,10.0,0,Cycle,Cycle separation and junction protection review
+815,572,68,Birmingham,B4100,52.475,-1.887,3.872,48,16.0,0,Pedestrian,Pedestrian crossing and speed review
+1067,374,69,Hackney,A10,51.568,-0.073,3.856,41,8.0,0,Cycle,Cycle separation and junction protection review
+1069,363,70,Tower Hamlets,A11,51.519,-0.059,3.839,140,17.0,0,Cycle,Cycle separation and junction protection review
+717,345,71,"Bristol, City of",B4053,51.453,-2.596,3.795,46,11.858,0,Pedestrian,Pedestrian crossing and speed review
+1060,361,72,Westminster,A4,51.51,-0.125,3.713,51,9.0,0,Pedestrian,Pedestrian crossing and speed review
+1066,363,73,City of London,A10,51.518,-0.08,3.711,51,13.0,1,Cycle,Cycle separation and junction protection review
+1070,370,74,Hackney,A107,51.55,-0.051,3.701,45,5.0,0,Cycle,Cycle separation and junction protection review
+1078,369,75,Newham,A11,51.544,0.007,3.697,41,7.0,2,Junction,Junction layout and signal review
+1055,351,76,Wandsworth,A3036,51.465,-0.162,3.695,76,11.0,0,Cycle,Cycle separation and junction protection review
+1069,362,77,Tower Hamlets,A13,51.515,-0.06,3.69,82,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+1066,362,78,City of London,A10,51.515,-0.081,3.688,43,10.0,0,Cycle,Cycle separation and junction protection review
+1063,360,79,Southwark,A3200,51.506,-0.104,3.686,49,16.0,0,Cycle,Cycle separation and junction protection review
+1055,337,80,Merton,A217,51.404,-0.165,3.667,38,11.0,0,Junction,Junction layout and signal review
+1025,360,81,Ealing,A3005,51.51,-0.377,3.661,47,9.0,0,Pedestrian,Pedestrian crossing and speed review
+1062,210,82,Brighton and Hove,A23,50.832,-0.137,3.658,63,19.0,0,Cycle,Cycle separation and junction protection review
+914,681,83,Nottingham,A60,52.961,-1.149,3.638,45,13.0,0,Junction,Junction layout and signal review
+1084,368,84,Newham,A117,51.539,0.051,3.636,47,12.0,0,Pedestrian,Pedestrian crossing and speed review
+1066,366,85,Hackney,A10,51.532,-0.079,3.626,55,7.0,0,Cycle,Cycle separation and junction protection review
+1067,353,86,Southwark,A202,51.474,-0.076,3.602,48,6.0,0,Cycle,Cycle separation and junction protection review
+1074,379,87,Waltham Forest,A503,51.59,-0.019,3.6,37,6.0,0,Junction,Junction layout and signal review
+1077,368,88,Newham,A11,51.541,-0.0,3.597,65,11.0,1,Pedestrian,Pedestrian crossing and speed review
+1051,356,89,Kensington and Chelsea,A3220,51.489,-0.191,3.597,51,13.0,0,Junction,Junction layout and signal review
+670,779,90,Liverpool,A5038,53.401,-2.976,3.591,43,11.153,0,Pedestrian,Pedestrian crossing and speed review
+1058,350,91,Lambeth,A3,51.461,-0.14,3.58,44,10.0,0,Cycle,Cycle separation and junction protection review
+1066,361,92,City of London,A3211,51.51,-0.082,3.571,44,12.0,0,Cycle,Cycle separation and junction protection review
+1058,371,93,Islington,A400,51.556,-0.138,3.566,37,8.0,0,Cycle,Cycle separation and junction protection review
+1061,362,94,Camden,A4200,51.515,-0.119,3.56,57,14.0,0,Cycle,Cycle separation and junction protection review
+1046,356,95,Hammersmith and Fulham,A219,51.491,-0.224,3.56,59,15.0,0,Cycle,Cycle separation and junction protection review
+1059,360,96,Westminster,A4,51.507,-0.131,3.56,51,16.0,1,Cycle,Cycle separation and junction protection review
+1045,357,97,Hammersmith and Fulham,A315,51.493,-0.233,3.56,44,10.0,0,Cycle,Cycle separation and junction protection review
+1068,362,98,Tower Hamlets,A13,51.515,-0.067,3.547,46,9.0,0,Junction,Junction layout and signal review
+1066,358,99,Southwark,A100,51.497,-0.082,3.547,60,18.0,0,Cycle,Cycle separation and junction protection review
+1059,351,100,Lambeth,A3,51.465,-0.132,3.547,57,13.0,1,Cycle,Cycle separation and junction protection review
+1058,364,101,Camden,A400,51.524,-0.138,3.546,50,10.0,1,Cycle,Cycle separation and junction protection review
+1046,357,102,Hammersmith and Fulham,A315,51.493,-0.226,3.546,55,17.0,1,Cycle,Cycle separation and junction protection review
+1069,365,103,Tower Hamlets,A1209,51.528,-0.058,3.546,49,9.0,0,Cycle,Cycle separation and junction protection review
+1053,363,104,Westminster,A5,51.521,-0.173,3.546,56,13.0,0,Cycle,Cycle separation and junction protection review
+1040,360,105,Ealing,A4020,51.507,-0.269,3.542,42,8.0,0,Cycle,Cycle separation and junction protection review
+768,795,106,Manchester,A34,53.476,-2.24,3.54,44,18.0,0,Pedestrian,Pedestrian crossing and speed review
+1072,362,107,Tower Hamlets,A13,51.513,-0.039,3.534,53,9.0,1,Junction,Junction layout and signal review
+1057,357,108,Westminster,A3214,51.493,-0.147,3.526,48,9.0,0,Junction,Junction layout and signal review
+1050,357,109,Kensington and Chelsea,A3220,51.494,-0.198,3.526,57,9.0,2,Junction,Junction layout and signal review
+1072,364,110,Tower Hamlets,A11,51.524,-0.037,3.526,47,10.0,0,Cycle,Cycle separation and junction protection review
+1074,353,111,Lewisham,A2,51.474,-0.025,3.526,51,9.0,0,Cycle,Cycle separation and junction protection review
+717,346,112,"Bristol, City of",A38,51.457,-2.595,3.525,58,15.016,1,Pedestrian,Pedestrian crossing and speed review
+1053,364,113,Westminster,A5,51.524,-0.175,3.516,55,12.0,0,Cycle,Cycle separation and junction protection review
+1057,360,114,Westminster,A4,51.506,-0.145,3.506,59,13.0,0,Pedestrian,Pedestrian crossing and speed review
+1056,361,115,Westminster,A4202,51.511,-0.153,3.5,43,8.0,0,Cycle,Cycle separation and junction protection review
+1073,354,116,Lewisham,A2,51.476,-0.033,3.492,58,12.0,0,Junction,Junction layout and signal review
+1056,360,117,Westminster,A4202,51.507,-0.152,3.492,51,13.0,0,Cycle,Cycle separation and junction protection review
+1058,360,118,Westminster,A4,51.507,-0.14,3.492,53,9.0,0,Junction,Junction layout and signal review
+1059,365,119,Camden,A501,51.528,-0.131,3.492,47,6.0,0,Cycle,Cycle separation and junction protection review
+1069,372,120,Hackney,A107,51.559,-0.056,3.49,41,3.0,0,Cycle,Cycle separation and junction protection review
+1052,354,121,Kensington and Chelsea,A308,51.481,-0.183,3.488,61,14.0,0,Cycle,Cycle separation and junction protection review
+1050,362,122,Westminster,A4206,51.516,-0.197,3.486,47,9.0,0,Junction,Junction layout and signal review
+1067,361,123,Tower Hamlets,A100,51.51,-0.074,3.483,58,11.014,0,Cycle,Cycle separation and junction protection review
+1069,353,124,Southwark,A202,51.474,-0.062,3.481,53,10.0,0,Cycle,Cycle separation and junction protection review
+1062,358,125,Lambeth,A23,51.497,-0.11,3.481,44,10.0,0,Cycle,Cycle separation and junction protection review
+1062,356,126,Lambeth,A23,51.488,-0.111,3.481,49,12.0,0,Cycle,Cycle separation and junction protection review
+1054,362,127,Westminster,A5,51.516,-0.166,3.472,54,9.0,0,Cycle,Cycle separation and junction protection review
+1052,357,128,Kensington and Chelsea,A4,51.494,-0.183,3.466,59,11.0,0,Cycle,Cycle separation and junction protection review
+1054,355,129,Kensington and Chelsea,A3212,51.484,-0.169,3.461,46,8.0,0,Cycle,Cycle separation and junction protection review
+1068,374,130,Hackney,A107,51.568,-0.063,3.461,38,4.0,0,Cycle,Cycle separation and junction protection review
+1062,209,131,Brighton and Hove,A23,50.827,-0.137,3.454,50,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1059,350,132,Lambeth,A3,51.462,-0.135,3.453,52,11.0,1,Motorcycle,Motorcycle route and junction visibility review
+1051,354,133,Hammersmith and Fulham,A308,51.479,-0.19,3.45,47,8.0,0,Cycle,Cycle separation and junction protection review
+1062,355,134,Lambeth,A3,51.483,-0.112,3.448,53,12.0,0,Cycle,Cycle separation and junction protection review
+1060,350,135,Lambeth,A2217,51.461,-0.128,3.447,47,7.0,0,Cycle,Cycle separation and junction protection review
+1053,357,136,Kensington and Chelsea,A3218,51.494,-0.176,3.445,49,14.0,0,Cycle,Cycle separation and junction protection review
+718,344,137,"Bristol, City of",A4044,51.448,-2.589,3.442,37,10.579,0,Cycle,Cycle separation and junction protection review
+1068,355,138,Southwark,A2,51.484,-0.066,3.435,51,11.0,1,Cycle,Cycle separation and junction protection review
+1066,357,139,Southwark,A2,51.492,-0.082,3.434,54,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+1065,365,140,Hackney,A501,51.527,-0.088,3.434,62,12.0,0,Cycle,Cycle separation and junction protection review
+1053,355,141,Kensington and Chelsea,A3217,51.484,-0.176,3.434,54,15.0,0,Motorcycle,Motorcycle route and junction visibility review
+1063,357,142,Southwark,A3,51.492,-0.102,3.434,58,13.0,1,Cycle,Cycle separation and junction protection review
+1065,357,143,Southwark,A201,51.493,-0.09,3.431,43,7.0,0,Cycle,Cycle separation and junction protection review
+1067,363,144,Tower Hamlets,A1202,51.519,-0.074,3.431,56,11.0,0,Cycle,Cycle separation and junction protection review
+914,679,145,Nottingham,A6008,52.952,-1.15,3.43,40,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1064,358,146,Southwark,A201,51.496,-0.098,3.428,47,9.0,0,Cycle,Cycle separation and junction protection review
+1064,353,147,Southwark,A202,51.475,-0.096,3.427,48,9.0,0,Cycle,Cycle separation and junction protection review
+1060,356,148,Lambeth,A202,51.487,-0.124,3.417,49,11.0,0,Cycle,Cycle separation and junction protection review
+1063,351,149,Lambeth,A2217,51.466,-0.104,3.407,43,7.0,0,Cycle,Cycle separation and junction protection review
+1054,356,150,Kensington and Chelsea,A3217,51.489,-0.168,3.401,54,11.0,0,Cycle,Cycle separation and junction protection review
+1070,363,151,Tower Hamlets,A11,51.519,-0.053,3.391,68,3.0,0,Cycle,Cycle separation and junction protection review
+1067,372,152,Hackney,A10,51.559,-0.072,3.388,54,13.0,1,Junction,Junction layout and signal review
+1068,370,153,Hackney,A104,51.55,-0.066,3.38,51,10.0,0,Cycle,Cycle separation and junction protection review
+1025,359,154,Ealing,A3005,51.506,-0.378,3.378,56,10.0,1,Darkness,Lighting and conspicuity audit
+1065,363,155,City of London,A501,51.519,-0.088,3.378,44,10.0,0,Cycle,Cycle separation and junction protection review
+1059,364,156,Camden,A400,51.524,-0.131,3.376,46,7.0,0,Cycle,Cycle separation and junction protection review
+1057,358,157,Westminster,A302,51.497,-0.146,3.368,63,19.0,1,Cycle,Cycle separation and junction protection review
+1070,362,158,Tower Hamlets,A13,51.514,-0.053,3.365,49,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1010,498,159,Bedford,A600,52.131,-0.465,3.361,41,7.0,0,Junction,Junction layout and signal review
+1065,364,160,Islington,A5201,51.524,-0.088,3.361,56,5.0,0,Cycle,Cycle separation and junction protection review
+1051,353,161,Hammersmith and Fulham,A308,51.477,-0.191,3.356,60,6.0,0,Cycle,Cycle separation and junction protection review
+1062,379,162,Haringey,A105,51.591,-0.105,3.339,81,12.0,0,Junction,Junction layout and signal review
+1067,378,163,Haringey,A10,51.586,-0.071,3.339,79,13.0,0,Cycle,Cycle separation and junction protection review
+1067,380,164,Haringey,A10,51.595,-0.069,3.339,80,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+1062,373,165,Islington,A503,51.564,-0.106,3.338,77,13.0,0,Cycle,Cycle separation and junction protection review
+1024,371,166,Hillingdon,Local road,51.559,-0.381,3.33,36,9.0,0,Darkness,Lighting and conspicuity audit
+1062,380,167,Haringey,A105,51.596,-0.108,3.326,112,24.0,2,Junction,Junction layout and signal review
+813,571,168,Birmingham,A38,52.469,-1.901,3.324,42,5.0,0,Darkness,Lighting and conspicuity audit
+1081,370,169,Newham,A118,51.548,0.027,3.319,44,3.0,0,Junction,Junction layout and signal review
+1061,363,170,Camden,A40,51.519,-0.117,3.314,59,14.0,0,Cycle,Cycle separation and junction protection review
+1076,351,171,Lewisham,A21,51.464,-0.011,3.31,76,8.0,0,Junction,Junction layout and signal review
+1070,364,172,Tower Hamlets,A11,51.523,-0.052,3.282,50,6.0,0,Cycle,Cycle separation and junction protection review
+1058,368,173,Camden,A5202,51.542,-0.138,3.278,69,7.0,0,Cycle,Cycle separation and junction protection review
+1052,355,174,Kensington and Chelsea,A308,51.484,-0.184,3.271,64,15.0,0,Cycle,Cycle separation and junction protection review
+1067,377,175,Haringey,A10,51.582,-0.073,3.266,69,11.0,0,Cycle,Cycle separation and junction protection review
+1050,367,176,Camden,A5,51.539,-0.195,3.251,74,10.0,1,Motorcycle,Motorcycle route and junction visibility review
+1055,361,177,Westminster,A4202,51.512,-0.159,3.247,37,7.0,1,Cycle,Cycle separation and junction protection review
+1060,363,178,Camden,A4200,51.519,-0.123,3.243,47,9.0,0,Cycle,Cycle separation and junction protection review
+849,1128,179,Newcastle upon Tyne,B1307,54.972,-1.614,3.239,59,14.0,0,Pedestrian,Pedestrian crossing and speed review
+1077,362,180,Tower Hamlets,A13,51.512,-0.001,3.212,61,10.0,1,Darkness,Lighting and conspicuity audit
+858,867,181,Leeds,A58,53.799,-1.557,3.21,39,9.0,0,Darkness,Lighting and conspicuity audit
+1055,356,182,Kensington and Chelsea,A3217,51.489,-0.162,3.2,44,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+1050,360,183,Kensington and Chelsea,A402,51.508,-0.196,3.187,46,5.0,0,Cycle,Cycle separation and junction protection review
+1024,358,184,Ealing,Local road,51.501,-0.384,3.183,40,8.0,1,Junction,Junction layout and signal review
+1060,357,185,Westminster,A3212,51.494,-0.125,3.178,38,6.0,0,Cycle,Cycle separation and junction protection review
+1054,358,186,Kensington and Chelsea,A4,51.498,-0.167,3.171,43,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+1086,372,187,Redbridge,A118,51.557,0.066,3.163,63,7.0,0,Darkness,Lighting and conspicuity audit
+1068,352,188,Southwark,A2215,51.469,-0.068,3.157,21,7.0,0,Cycle,Cycle separation and junction protection review
+1018,858,189,"Kingston upon Hull, City of",A1079,53.748,-0.346,3.149,40,8.0,0,Cycle,Cycle separation and junction protection review
+1087,357,190,Greenwich,A205,51.49,0.069,3.129,53,13.0,0,Pedestrian,Pedestrian crossing and speed review
+884,225,191,Southampton ,A335,50.913,-1.401,3.127,38,7.673,0,Darkness,Lighting and conspicuity audit
+1066,367,192,Hackney,A10,51.537,-0.078,3.123,38,7.0,0,Cycle,Cycle separation and junction protection review
+1063,367,193,Islington,A104,51.537,-0.102,3.114,39,12.0,0,Cycle,Cycle separation and junction protection review
+1058,363,194,Camden,B506,51.52,-0.139,3.109,44,9.0,1,Cycle,Cycle separation and junction protection review
+1049,358,195,Kensington and Chelsea,A315,51.498,-0.205,3.108,44,10.0,0,Cycle,Cycle separation and junction protection review
+1071,357,196,Southwark,A200,51.492,-0.046,3.107,72,9.0,0,Cycle,Cycle separation and junction protection review
+1075,366,197,Tower Hamlets,A11,51.53,-0.014,3.106,53,10.0,0,Cycle,Cycle separation and junction protection review
+1064,368,198,Islington,A104,51.541,-0.095,3.075,48,10.0,0,Cycle,Cycle separation and junction protection review
+669,781,199,Liverpool,A5038,53.409,-2.983,3.073,39,12.977,1,Pedestrian,Pedestrian crossing and speed review
+832,866,200,Bradford,A6181,53.795,-1.755,3.066,37,9.0,0,Pedestrian,Pedestrian crossing and speed review
+860,867,201,Leeds,A64,53.799,-1.542,3.049,64,14.0,2,Pedestrian,Pedestrian crossing and speed review
+917,609,202,Leicester,A594,52.637,-1.134,3.03,27,8.298,0,Pedestrian,Pedestrian crossing and speed review
+869,774,203,Sheffield,B6539,53.381,-1.478,3.027,34,13.0,0,Pedestrian,Pedestrian crossing and speed review
+1060,364,204,Camden,A4200,51.524,-0.125,3.009,46,4.0,0,Cycle,Cycle separation and junction protection review
+1065,362,205,City of London,A10,51.514,-0.089,2.992,26,13.0,0,Cycle,Cycle separation and junction protection review
+1055,343,206,Wandsworth,A24,51.431,-0.165,2.987,109,10.0,0,Cycle,Cycle separation and junction protection review
+1061,366,207,Islington,A501,51.532,-0.117,2.983,39,9.0,0,Cycle,Cycle separation and junction protection review
+1043,366,208,Brent,A404,51.536,-0.246,2.966,78,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+1068,361,209,Tower Hamlets,B126,51.51,-0.067,2.957,65,13.0,0,Cycle,Cycle separation and junction protection review
+910,682,210,Nottingham,A610,52.965,-1.179,2.948,34,8.0,1,Darkness,Lighting and conspicuity audit
+813,574,211,Birmingham,A4400,52.483,-1.901,2.94,49,9.0,0,Darkness,Lighting and conspicuity audit
+1063,377,212,Haringey,A105,51.582,-0.1,2.937,66,8.0,0,Cycle,Cycle separation and junction protection review
+1087,372,213,Redbridge,A118,51.557,0.071,2.917,72,8.0,0,Pedestrian,Pedestrian crossing and speed review
+767,795,214,Manchester,A34,53.477,-2.246,2.913,26,7.0,1,Cycle,Cycle separation and junction protection review
+863,871,215,Leeds,A58,53.817,-1.518,2.908,38,10.0,1,Junction,Junction layout and signal review
+1082,368,216,Newham,B167,51.54,0.034,2.898,39,5.0,0,Pedestrian,Pedestrian crossing and speed review
+1055,359,217,Westminster,A4,51.502,-0.16,2.891,42,14.0,0,Cycle,Cycle separation and junction protection review
+870,772,218,Sheffield,A621,53.372,-1.472,2.889,28,9.0,1,Darkness,Lighting and conspicuity audit
+911,682,219,Nottingham,A6130,52.966,-1.171,2.888,40,10.0,0,Junction,Junction layout and signal review
+1059,356,220,Westminster,A202,51.489,-0.132,2.886,36,9.0,0,Cycle,Cycle separation and junction protection review
+1056,363,221,Westminster,B524,51.52,-0.153,2.872,36,7.0,0,Cycle,Cycle separation and junction protection review
+818,568,222,Birmingham,A41,52.456,-1.865,2.866,29,7.0,0,Darkness,Lighting and conspicuity audit
+1076,362,223,Tower Hamlets,A13,51.512,-0.01,2.863,65,6.0,0,Darkness,Lighting and conspicuity audit
+1064,360,224,Southwark,A3200,51.505,-0.096,2.858,40,9.0,0,Cycle,Cycle separation and junction protection review
+1057,361,225,Westminster,B406,51.511,-0.146,2.858,45,6.0,0,Cycle,Cycle separation and junction protection review
+1073,363,226,Tower Hamlets,A1205,51.517,-0.03,2.855,40,7.0,1,Cycle,Cycle separation and junction protection review
+870,671,227,Derby,A601,52.918,-1.477,2.854,35,9.68,0,Cycle,Cycle separation and junction protection review
+670,780,228,Liverpool,A5038,53.405,-2.976,2.851,38,8.434,0,Pedestrian,Pedestrian crossing and speed review
+1048,363,229,Kensington and Chelsea,B450,51.521,-0.211,2.851,51,6.0,0,Cycle,Cycle separation and junction protection review
+1073,365,230,Tower Hamlets,A11,51.527,-0.03,2.844,44,7.0,0,Cycle,Cycle separation and junction protection review
+1067,373,231,Hackney,A10,51.564,-0.073,2.844,58,7.0,0,Cycle,Cycle separation and junction protection review
+833,866,232,Bradford,A650,53.795,-1.746,2.84,31,14.0,0,Pedestrian,Pedestrian crossing and speed review
+1052,350,233,Wandsworth,A3205,51.463,-0.185,2.836,49,5.0,0,Cycle,Cycle separation and junction protection review
+1058,357,234,Westminster,A202,51.493,-0.139,2.833,41,9.0,0,Junction,Junction layout and signal review
+1072,365,235,Tower Hamlets,A11,51.526,-0.035,2.831,46,9.0,0,Cycle,Cycle separation and junction protection review
+1085,364,236,Newham,A117,51.521,0.057,2.829,71,10.0,0,Darkness,Lighting and conspicuity audit
+1064,356,237,Southwark,A215,51.488,-0.096,2.823,37,7.0,0,Cycle,Cycle separation and junction protection review
+1053,362,238,Westminster,A4205,51.516,-0.175,2.822,40,12.0,0,Cycle,Cycle separation and junction protection review
+1049,360,239,Kensington and Chelsea,A402,51.508,-0.204,2.818,50,9.0,0,Cycle,Cycle separation and junction protection review
+1017,858,240,"Kingston upon Hull, City of",Local road,53.749,-0.352,2.81,33,8.0,1,Junction,Junction layout and signal review
+1077,361,241,Tower Hamlets,A1261,51.51,-0.002,2.809,37,8.0,2,Darkness,Lighting and conspicuity audit
+1050,358,242,Kensington and Chelsea,A315,51.498,-0.197,2.804,36,8.0,0,Cycle,Cycle separation and junction protection review
+1049,363,243,Westminster,A4207,51.522,-0.202,2.804,37,11.0,0,Cycle,Cycle separation and junction protection review
+1064,354,244,Southwark,A215,51.479,-0.095,2.804,42,6.0,0,Cycle,Cycle separation and junction protection review
+1051,357,245,Kensington and Chelsea,A4,51.494,-0.19,2.801,36,6.0,0,Cycle,Cycle separation and junction protection review
+1071,362,246,Tower Hamlets,A13,51.513,-0.045,2.797,56,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1051,363,247,Westminster,A404,51.52,-0.19,2.788,36,7.0,1,Junction,Junction layout and signal review
+1063,354,248,Lambeth,A202,51.478,-0.103,2.788,39,10.0,1,Cycle,Cycle separation and junction protection review
+1064,355,249,Southwark,A215,51.483,-0.094,2.788,61,18.0,0,Cycle,Cycle separation and junction protection review
+1060,351,250,Lambeth,A3,51.465,-0.128,2.788,39,8.0,0,Cycle,Cycle separation and junction protection review
+1058,358,251,Westminster,A302,51.497,-0.141,2.786,39,10.0,0,Pedestrian,Pedestrian crossing and speed review
+661,872,252,Blackpool,A584,53.818,-3.054,2.766,31,9.0,1,Pedestrian,Pedestrian crossing and speed review
+1057,364,253,Westminster,A501,51.524,-0.145,2.765,56,13.0,1,Cycle,Cycle separation and junction protection review
+920,903,254,York,B1227,53.958,-1.083,2.742,25,7.505,0,Pedestrian,Pedestrian crossing and speed review
+869,672,255,Derby,A516,52.922,-1.485,2.739,31,9.559,0,Junction,Junction layout and signal review
+817,572,256,Birmingham,A4540,52.473,-1.874,2.738,68,8.0,0,Darkness,Lighting and conspicuity audit
+1036,338,257,Kingston upon Thames,A308,51.41,-0.302,2.737,32,15.0,1,Pedestrian,Pedestrian crossing and speed review
+1053,354,258,Kensington and Chelsea,A3220,51.481,-0.175,2.736,37,14.0,1,Cycle,Cycle separation and junction protection review
+1048,359,259,Kensington and Chelsea,A3220,51.503,-0.213,2.736,28,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+651,1347,260,City of Edinburgh,A8,55.952,-3.191,2.728,25,13.0,0,Pedestrian,Pedestrian crossing and speed review
+1052,362,261,Westminster,A4206,51.517,-0.182,2.715,41,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1068,365,262,Tower Hamlets,A1209,51.527,-0.066,2.706,42,7.0,0,Cycle,Cycle separation and junction protection review
+1058,367,263,Camden,A5202,51.538,-0.138,2.706,55,10.0,0,Cycle,Cycle separation and junction protection review
+915,680,264,Nottingham,A60,52.956,-1.143,2.703,51,12.0,0,Pedestrian,Pedestrian crossing and speed review
+862,870,265,Leeds,A58,53.811,-1.525,2.7,28,10.0,0,Junction,Junction layout and signal review
+1042,371,266,Brent,A406,51.558,-0.252,2.695,69,12.0,2,Motorcycle,Motorcycle route and junction visibility review
+1048,357,267,Hammersmith and Fulham,A315,51.494,-0.212,2.68,43,14.0,0,Cycle,Cycle separation and junction protection review
+1054,366,268,Westminster,A5205,51.534,-0.165,2.665,36,9.0,0,Cycle,Cycle separation and junction protection review
+1061,350,269,Lambeth,A23,51.461,-0.117,2.664,41,8.0,1,Motorcycle,Motorcycle route and junction visibility review
+1056,358,270,Westminster,B310,51.498,-0.154,2.658,43,10.0,0,Cycle,Cycle separation and junction protection review
+1054,365,271,Westminster,A41,51.53,-0.167,2.649,36,6.0,0,Cycle,Cycle separation and junction protection review
+1067,359,272,Southwark,A200,51.501,-0.076,2.646,53,12.0,0,Cycle,Cycle separation and junction protection review
+768,797,273,Manchester,A664,53.485,-2.239,2.644,21,6.0,0,Pedestrian,Pedestrian crossing and speed review
+815,570,274,Birmingham,A4540,52.464,-1.887,2.635,34,6.0,2,Darkness,Lighting and conspicuity audit
+1053,356,275,Kensington and Chelsea,A308,51.489,-0.177,2.629,36,7.0,0,Cycle,Cycle separation and junction protection review
+1063,373,276,Hackney,A503,51.565,-0.103,2.628,40,7.0,0,Cycle,Cycle separation and junction protection review
+1068,384,277,Enfield,A1010,51.613,-0.064,2.628,106,7.0,1,Motorcycle,Motorcycle route and junction visibility review
+814,575,278,Birmingham,A38,52.487,-1.894,2.625,29,5.0,0,Pedestrian,Pedestrian crossing and speed review
+1056,356,279,Kensington and Chelsea,A3216,51.489,-0.154,2.604,36,11.0,0,Cycle,Cycle separation and junction protection review
+1063,334,280,Croydon,A235,51.388,-0.11,2.595,75,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+1061,210,281,Brighton and Hove,A2010,50.832,-0.146,2.592,35,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1073,353,282,Lewisham,A20,51.474,-0.032,2.589,48,10.0,0,Junction,Junction layout and signal review
+1075,347,283,Lewisham,A21,51.446,-0.02,2.588,46,10.0,0,Junction,Junction layout and signal review
+1061,380,284,Haringey,B151,51.596,-0.112,2.587,44,1.0,0,Motorcycle,Motorcycle route and junction visibility review
+1070,359,285,Southwark,A200,51.5,-0.054,2.587,30,7.0,0,Cycle,Cycle separation and junction protection review
+871,774,286,Sheffield,A61,53.382,-1.465,2.584,25,12.0,0,Pedestrian,Pedestrian crossing and speed review
+1017,861,287,"Kingston upon Hull, City of",A1079,53.762,-0.351,2.582,28,2.0,1,Cycle,Cycle separation and junction protection review
+1060,352,288,Lambeth,A3,51.47,-0.125,2.58,44,14.0,0,Cycle,Cycle separation and junction protection review
+1062,363,289,Camden,A40,51.519,-0.109,2.576,29,12.018,0,Cycle,Cycle separation and junction protection review
+707,859,290,Preston,A59,53.761,-2.704,2.576,23,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1050,359,291,Kensington and Chelsea,A315,51.503,-0.195,2.573,39,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1061,352,292,Lambeth,A203,51.47,-0.12,2.566,36,5.0,0,Cycle,Cycle separation and junction protection review
+850,1128,293,Newcastle upon Tyne,A186,54.972,-1.609,2.563,27,7.0,0,Darkness,Lighting and conspicuity audit
+1051,349,294,Wandsworth,A217,51.458,-0.193,2.555,59,16.0,0,Cycle,Cycle separation and junction protection review
+1075,348,295,Lewisham,A21,51.45,-0.017,2.555,36,9.0,0,Junction,Junction layout and signal review
+1054,342,296,Wandsworth,A24,51.427,-0.169,2.555,61,12.0,1,Junction,Junction layout and signal review
+1057,367,297,Camden,A503,51.538,-0.143,2.543,51,7.0,0,Junction,Junction layout and signal review
+1064,365,298,Islington,A501,51.529,-0.095,2.543,56,6.0,0,Cycle,Cycle separation and junction protection review
+1051,366,299,Westminster,A5,51.535,-0.189,2.541,45,8.0,0,Cycle,Cycle separation and junction protection review
+1047,371,300,Brent,A5,51.557,-0.215,2.541,70,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+1046,360,301,Hammersmith and Fulham,A219,51.507,-0.225,2.54,42,7.0,0,Cycle,Cycle separation and junction protection review
+1061,372,302,Islington,A503,51.56,-0.115,2.539,49,9.0,0,Cycle,Cycle separation and junction protection review
+1019,359,303,Hillingdon,Local road,51.507,-0.419,2.537,38,3.0,0,Darkness,Lighting and conspicuity audit
+1065,207,304,Brighton and Hove,A259,50.818,-0.117,2.534,37,15.0,0,Pedestrian,Pedestrian crossing and speed review
+1047,350,305,Wandsworth,A205,51.461,-0.218,2.534,39,7.0,0,Cycle,Cycle separation and junction protection review
+1063,369,306,Islington,A1,51.546,-0.102,2.533,50,7.0,0,Cycle,Cycle separation and junction protection review
+1057,368,307,Camden,A502,51.542,-0.145,2.53,48,6.0,0,Cycle,Cycle separation and junction protection review
+768,796,308,Manchester,A5103,53.48,-2.239,2.529,28,12.0,2,Cycle,Cycle separation and junction protection review
+1070,365,309,Tower Hamlets,B135,51.528,-0.053,2.528,39,4.0,0,Cycle,Cycle separation and junction protection review
+1060,345,310,Lambeth,A23,51.439,-0.127,2.526,62,19.0,0,Junction,Junction layout and signal review
+1061,339,311,Croydon,A23,51.411,-0.122,2.525,66,11.0,0,Motorcycle,Motorcycle route and junction visibility review
+1063,366,312,Islington,A501,51.533,-0.104,2.525,33,7.0,0,Cycle,Cycle separation and junction protection review
+1065,369,313,Islington,A104,51.546,-0.086,2.524,38,7.0,1,Cycle,Cycle separation and junction protection review
+833,865,314,Bradford,A650,53.791,-1.747,2.52,29,7.0,0,Pedestrian,Pedestrian crossing and speed review
+868,812,315,Barnsley,A628,53.552,-1.484,2.517,22,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1062,370,316,Islington,A1,51.551,-0.109,2.516,53,11.0,0,Cycle,Cycle separation and junction protection review
+1075,353,317,Greenwich,A2,51.473,-0.018,2.513,46,10.0,0,Junction,Junction layout and signal review
+1068,358,318,Southwark,A200,51.497,-0.066,2.51,44,10.0,0,Cycle,Cycle separation and junction protection review
+1061,371,319,Islington,A1,51.556,-0.116,2.509,64,11.0,0,Cycle,Cycle separation and junction protection review
+1045,360,320,Hammersmith and Fulham,A4020,51.507,-0.233,2.507,48,8.0,0,Cycle,Cycle separation and junction protection review
+1054,352,321,Wandsworth,A3205,51.471,-0.169,2.506,51,14.0,0,Cycle,Cycle separation and junction protection review
+1075,351,322,Lewisham,A20,51.465,-0.017,2.506,37,12.0,0,Cycle,Cycle separation and junction protection review
+1076,350,323,Lewisham,A21,51.46,-0.012,2.504,59,7.0,0,Junction,Junction layout and signal review
+1062,352,324,Lambeth,A23,51.471,-0.112,2.501,48,10.0,0,Cycle,Cycle separation and junction protection review
+1071,370,325,Hackney,A102,51.549,-0.043,2.501,43,7.0,0,Cycle,Cycle separation and junction protection review
+1060,372,326,Islington,A1,51.56,-0.123,2.499,57,9.0,0,Cycle,Cycle separation and junction protection review
+1049,356,327,Hammersmith and Fulham,B317,51.489,-0.206,2.493,52,12.0,0,Cycle,Cycle separation and junction protection review
+1092,374,328,Redbridge,A118,51.566,0.11,2.491,43,5.0,1,Junction,Junction layout and signal review
+1059,358,329,Westminster,A302,51.497,-0.133,2.49,30,7.0,0,Cycle,Cycle separation and junction protection review
+1064,362,330,City of London,A40,51.514,-0.095,2.49,33,9.0,0,Cycle,Cycle separation and junction protection review
+1069,373,331,Hackney,A107,51.563,-0.058,2.489,56,9.0,0,Junction,Junction layout and signal review
+1060,343,332,Lambeth,A23,51.43,-0.13,2.488,51,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1071,353,333,Lewisham,A2,51.474,-0.046,2.486,44,8.0,0,Cycle,Cycle separation and junction protection review
+848,1127,334,Newcastle upon Tyne,A189,54.967,-1.623,2.478,34,9.0,0,Darkness,Lighting and conspicuity audit
+1064,363,335,City of London,A1,51.519,-0.096,2.477,27,7.0,0,Cycle,Cycle separation and junction protection review
+1048,350,336,Wandsworth,A219,51.463,-0.214,2.476,45,12.0,0,Cycle,Cycle separation and junction protection review
+1068,366,337,Tower Hamlets,A1208,51.531,-0.066,2.472,42,7.0,0,Cycle,Cycle separation and junction protection review
+1050,354,338,Hammersmith and Fulham,A304,51.48,-0.198,2.471,63,13.0,0,Motorcycle,Motorcycle route and junction visibility review
+1072,353,339,Lewisham,A2,51.475,-0.041,2.47,49,9.0,0,Junction,Junction layout and signal review
+1074,361,340,Tower Hamlets,A1206,51.509,-0.024,2.47,40,10.0,0,Cycle,Cycle separation and junction protection review
+1057,348,341,Wandsworth,A24,51.452,-0.148,2.469,49,11.0,0,Cycle,Cycle separation and junction protection review
+1071,361,342,Tower Hamlets,A1203,51.51,-0.046,2.469,57,8.0,0,Cycle,Cycle separation and junction protection review
+1056,346,343,Wandsworth,A24,51.443,-0.154,2.466,43,6.0,0,Cycle,Cycle separation and junction protection review
+1053,366,344,Westminster,A41,51.533,-0.174,2.464,35,7.0,0,Junction,Junction layout and signal review
+1064,211,345,Brighton and Hove,A270,50.837,-0.125,2.461,47,10.0,0,Cycle,Cycle separation and junction protection review
+1063,363,346,City of London,A201,51.519,-0.104,2.457,27,6.046,0,Cycle,Cycle separation and junction protection review
+929,203,347,Portsmouth,A2047,50.812,-1.082,2.457,36,6.464,0,Cycle,Cycle separation and junction protection review
+859,866,348,Leeds,Local road,53.796,-1.549,2.452,20,3.0,0,Pedestrian,Pedestrian crossing and speed review
+1056,344,349,Wandsworth,A214,51.435,-0.157,2.452,44,5.0,0,Cycle,Cycle separation and junction protection review
+767,796,350,Manchester,A34,53.481,-2.246,2.448,26,11.0,0,Cycle,Cycle separation and junction protection review
+1083,376,351,Redbridge,A12,51.576,0.045,2.446,77,6.0,1,Darkness,Lighting and conspicuity audit
+817,569,352,Birmingham,A41,52.46,-1.873,2.446,56,16.0,1,Junction,Junction layout and signal review
+1064,332,353,Croydon,A212,51.379,-0.102,2.445,72,10.0,0,Junction,Junction layout and signal review
+870,773,354,Sheffield,A1,53.376,-1.472,2.441,24,7.0,0,Cycle,Cycle separation and junction protection review
+1055,350,355,Wandsworth,A3,51.462,-0.163,2.439,41,10.0,0,Cycle,Cycle separation and junction protection review
+1050,364,356,Westminster,A404,51.525,-0.196,2.436,47,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+1057,363,357,Westminster,A4201,51.52,-0.145,2.433,38,5.0,0,Cycle,Cycle separation and junction protection review
+814,573,358,Birmingham,B4100,52.478,-1.894,2.43,25,4.0,0,Pedestrian,Pedestrian crossing and speed review
+767,794,359,Manchester,A5103,53.472,-2.246,2.429,22,3.0,0,Cycle,Cycle separation and junction protection review
+1074,355,360,Lewisham,A200,51.481,-0.026,2.426,39,4.0,0,Cycle,Cycle separation and junction protection review
+1072,369,361,Hackney,A102,51.546,-0.035,2.422,47,8.0,1,Junction,Junction layout and signal review
+1070,354,362,Southwark,A2,51.478,-0.054,2.418,40,6.0,0,Cycle,Cycle separation and junction protection review
+1066,360,363,Southwark,A200,51.504,-0.082,2.416,32,6.0,0,Cycle,Cycle separation and junction protection review
+951,521,364,West Northamptonshire,A4500,52.241,-0.892,2.413,28,4.0,0,Junction,Junction layout and signal review
+1062,207,365,Brighton and Hove,A23,50.82,-0.137,2.408,32,6.0,0,Cycle,Cycle separation and junction protection review
+1092,367,366,Barking and Dagenham,A13,51.533,0.107,2.406,44,6.0,0,Junction,Junction layout and signal review
+1044,366,367,Brent,A404,51.534,-0.24,2.404,37,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1082,367,368,Newham,B167,51.535,0.035,2.403,37,2.0,0,Pedestrian,Pedestrian crossing and speed review
+1061,381,369,Haringey,A105,51.6,-0.112,2.402,59,11.0,0,Junction,Junction layout and signal review
+1074,378,370,Waltham Forest,A112,51.585,-0.02,2.396,46,9.0,1,Darkness,Lighting and conspicuity audit
+1044,369,371,Brent,A407,51.549,-0.238,2.396,67,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+1070,361,372,Tower Hamlets,A1203,51.51,-0.053,2.396,37,10.0,0,Cycle,Cycle separation and junction protection review
+1075,365,373,Tower Hamlets,A11,51.528,-0.016,2.395,34,7.0,0,Darkness,Lighting and conspicuity audit
+1051,362,374,Westminster,B411,51.516,-0.188,2.394,28,8.0,1,Cycle,Cycle separation and junction protection review
+1044,358,375,Hammersmith and Fulham,A402,51.5,-0.24,2.391,32,7.0,0,Cycle,Cycle separation and junction protection review
+1043,361,376,Ealing,A40,51.513,-0.248,2.391,50,11.0,0,Junction,Junction layout and signal review
+1064,381,377,Haringey,A109,51.599,-0.092,2.389,40,5.0,1,Junction,Junction layout and signal review
+1060,354,378,Lambeth,A203,51.479,-0.125,2.388,38,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+770,794,379,Manchester,A6,53.471,-2.223,2.388,29,9.0,1,Cycle,Cycle separation and junction protection review
+1050,349,380,Wandsworth,A3,51.457,-0.199,2.388,43,11.0,0,Cycle,Cycle separation and junction protection review
+816,568,381,Birmingham,Local road,52.456,-1.878,2.388,31,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1063,345,382,Lambeth,A215,51.439,-0.106,2.387,45,9.0,0,Junction,Junction layout and signal review
+1070,369,383,Hackney,B113,51.546,-0.051,2.385,45,6.0,1,Cycle,Cycle separation and junction protection review
+1050,355,384,Hammersmith and Fulham,A3218,51.485,-0.199,2.385,20,5.0,0,Cycle,Cycle separation and junction protection review
+1017,442,385,Luton,A505,51.879,-0.421,2.383,35,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1084,371,386,Newham,A118,51.552,0.05,2.382,40,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1068,378,387,Haringey,A503,51.587,-0.064,2.381,45,5.0,0,Junction,Junction layout and signal review
+1048,351,388,Hammersmith and Fulham,A219,51.467,-0.213,2.38,57,10.0,0,Cycle,Cycle separation and junction protection review
+1051,361,389,Westminster,A402,51.511,-0.189,2.379,52,11.0,0,Cycle,Cycle separation and junction protection review
+673,778,390,Liverpool,B5173,53.397,-2.952,2.378,22,8.355,0,Cycle,Cycle separation and junction protection review
+885,222,391,Southampton ,A3025,50.899,-1.393,2.378,36,10.238,0,Cycle,Cycle separation and junction protection review
+860,868,392,Leeds,A58,53.804,-1.542,2.378,28,7.0,0,Darkness,Lighting and conspicuity audit
+1246,617,393,Norwich,Local road,52.63,1.298,2.377,26,7.0,0,Cycle,Cycle separation and junction protection review
+517,1330,394,Glasgow City,Local road,55.86,-4.258,2.377,37,15.0,1,Pedestrian,Pedestrian crossing and speed review
+1152,334,395,Medway,A2,51.378,0.532,2.373,35,5.0,0,Junction,Junction layout and signal review
+1061,333,396,Croydon,A23,51.385,-0.121,2.373,34,7.0,0,Junction,Junction layout and signal review
+1081,365,397,Newham,A124,51.526,0.029,2.366,51,7.0,1,Junction,Junction layout and signal review
+1079,375,398,Waltham Forest,A11,51.571,0.015,2.364,39,4.0,0,Darkness,Lighting and conspicuity audit
+1075,376,399,Waltham Forest,A112,51.576,-0.013,2.364,53,6.0,2,Cycle,Cycle separation and junction protection review
+832,865,400,Bradford,A6181,53.791,-1.755,2.361,53,14.0,0,Junction,Junction layout and signal review
+1065,352,401,Southwark,A215,51.469,-0.092,2.359,28,5.0,0,Cycle,Cycle separation and junction protection review
+1057,347,402,Wandsworth,A24,51.447,-0.149,2.357,59,5.0,0,Cycle,Cycle separation and junction protection review
+1062,335,403,Croydon,A23,51.393,-0.115,2.356,84,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+849,1127,404,Newcastle upon Tyne,A186,54.969,-1.616,2.354,23,8.0,0,Pedestrian,Pedestrian crossing and speed review
+860,866,405,Leeds,Local road,53.796,-1.543,2.352,23,9.0,0,Pedestrian,Pedestrian crossing and speed review
+680,1460,406,Dundee City,A991,56.46,-2.97,2.348,14,4.0,0,Pedestrian,Pedestrian crossing and speed review
+1060,208,407,Brighton and Hove,B2066,50.824,-0.153,2.346,35,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1047,355,408,Hammersmith and Fulham,A219,51.485,-0.22,2.344,62,10.0,0,Cycle,Cycle separation and junction protection review
+1049,364,409,Westminster,A404,51.525,-0.203,2.344,57,12.0,0,Cycle,Cycle separation and junction protection review
+1059,357,410,Westminster,A202,51.493,-0.132,2.343,20,5.0,0,Cycle,Cycle separation and junction protection review
+916,609,411,Leicester,A594,52.637,-1.14,2.33,26,7.147,1,Junction,Junction layout and signal review
+861,868,412,Leeds,A61,53.804,-1.534,2.33,29,10.0,0,Junction,Junction layout and signal review
+812,882,413,Bradford,A6035,53.868,-1.908,2.329,34,10.0,1,Pedestrian,Pedestrian crossing and speed review
+715,348,414,"Bristol, City of",A4018,51.466,-2.61,2.329,27,5.677,1,Cycle,Cycle separation and junction protection review
+1091,516,415,Cambridge,A603,52.203,0.132,2.321,37,12.0,0,Cycle,Cycle separation and junction protection review
+1037,361,416,Ealing,A406,51.512,-0.292,2.318,38,4.0,0,Cycle,Cycle separation and junction protection review
+1067,336,417,Croydon,A213,51.398,-0.079,2.314,39,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1039,360,418,Ealing,A4020,51.508,-0.275,2.314,42,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1059,363,419,Camden,A400,51.52,-0.131,2.313,30,6.0,0,Cycle,Cycle separation and junction protection review
+929,199,420,Portsmouth,A2030,50.794,-1.081,2.31,34,4.591,0,Cycle,Cycle separation and junction protection review
+1062,323,421,Croydon,A23,51.339,-0.117,2.308,44,11.0,1,Pedestrian,Pedestrian crossing and speed review
+1231,489,422,Ipswich,A1156,52.06,1.147,2.305,31,9.0,0,Cycle,Cycle separation and junction protection review
+1066,332,423,Croydon,A222,51.38,-0.087,2.304,36,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+1068,385,424,Enfield,A1010,51.617,-0.064,2.304,40,4.0,0,Junction,Junction layout and signal review
+1049,355,425,Hammersmith and Fulham,B317,51.485,-0.203,2.302,52,7.0,0,Pedestrian,Pedestrian crossing and speed review
+871,773,426,Sheffield,A61,53.376,-1.464,2.288,22,10.0,1,Pedestrian,Pedestrian crossing and speed review
+1071,363,427,Tower Hamlets,B121,51.518,-0.044,2.285,36,6.0,0,Cycle,Cycle separation and junction protection review
+661,871,428,Blackpool,A5099,53.813,-3.052,2.281,26,9.0,0,Cycle,Cycle separation and junction protection review
+917,608,429,Leicester,A594,52.633,-1.133,2.281,20,4.299,0,Pedestrian,Pedestrian crossing and speed review
+829,868,430,Bradford,B6144,53.804,-1.777,2.281,32,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1063,333,431,Croydon,A235,51.385,-0.109,2.281,54,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+904,411,432,Oxford,A420,51.75,-1.244,2.275,41,8.915,0,Cycle,Cycle separation and junction protection review
+886,228,433,Southampton ,A3035,50.926,-1.386,2.274,30,4.753,1,Junction,Junction layout and signal review
+1069,361,434,Tower Hamlets,A1203,51.51,-0.059,2.268,43,4.0,1,Cycle,Cycle separation and junction protection review
+1041,321,435,Epsom and Ewell,A24,51.333,-0.268,2.261,38,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1062,359,436,Lambeth,A301,51.502,-0.111,2.259,30,8.0,0,Cycle,Cycle separation and junction protection review
+1102,376,437,Havering,A125,51.572,0.182,2.255,54,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+869,671,438,Derby,A601,52.919,-1.483,2.253,24,6.328,0,Junction,Junction layout and signal review
+929,201,439,Portsmouth,A2030,50.803,-1.083,2.253,32,1.864,0,Cycle,Cycle separation and junction protection review
+673,777,440,Liverpool,B5174,53.392,-2.953,2.251,24,6.769,0,Pedestrian,Pedestrian crossing and speed review
+1042,367,441,Brent,A404,51.54,-0.253,2.244,49,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+709,859,442,Preston,A59,53.762,-2.688,2.243,34,7.0,0,Junction,Junction layout and signal review
+855,872,443,Leeds,A660,53.822,-1.578,2.239,28,7.0,0,Cycle,Cycle separation and junction protection review
+1017,862,444,"Kingston upon Hull, City of",A1079,53.766,-0.353,2.239,42,12.0,1,Cycle,Cycle separation and junction protection review
+1047,364,445,Kensington and Chelsea,B450,51.526,-0.215,2.236,35,6.0,0,Junction,Junction layout and signal review
+1058,366,446,Camden,A4200,51.534,-0.138,2.236,32,7.0,0,Cycle,Cycle separation and junction protection review
+1056,350,447,Wandsworth,A3,51.461,-0.156,2.233,28,6.0,0,Junction,Junction layout and signal review
+1063,376,448,Haringey,A105,51.578,-0.099,2.233,51,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1057,353,449,Wandsworth,A3216,51.476,-0.148,2.231,35,7.0,0,Cycle,Cycle separation and junction protection review
+811,572,450,Birmingham,A4540,52.474,-1.917,2.231,38,6.0,0,Darkness,Lighting and conspicuity audit
+1064,374,451,Hackney,A105,51.57,-0.095,2.231,39,6.0,0,Junction,Junction layout and signal review
+716,345,452,"Bristol, City of",A4018,51.453,-2.602,2.225,25,4.891,0,Cycle,Cycle separation and junction protection review
+1071,366,453,Tower Hamlets,A1205,51.532,-0.042,2.225,32,3.0,0,Cycle,Cycle separation and junction protection review
+866,841,454,Wakefield,A642,53.682,-1.498,2.223,25,8.0,0,Pedestrian,Pedestrian crossing and speed review
+861,871,455,Leeds,Local road,53.817,-1.534,2.223,22,7.0,0,Pedestrian,Pedestrian crossing and speed review
+930,199,456,Portsmouth,A2030,50.795,-1.075,2.221,27,4.593,0,Cycle,Cycle separation and junction protection review
+1062,354,457,Lambeth,A23,51.479,-0.112,2.221,53,11.0,1,Cycle,Cycle separation and junction protection review
+1085,371,458,Newham,A118,51.554,0.057,2.22,46,7.0,0,Junction,Junction layout and signal review
+766,797,459,Salford,A6,53.485,-2.253,2.22,23,6.0,0,Cycle,Cycle separation and junction protection review
+910,680,460,Nottingham,A609,52.956,-1.179,2.219,35,10.0,0,Cycle,Cycle separation and junction protection review
+1075,362,461,Tower Hamlets,A13,51.513,-0.015,2.217,32,6.0,0,Junction,Junction layout and signal review
+1076,372,462,Waltham Forest,A112,51.559,-0.007,2.217,44,6.0,0,Cycle,Cycle separation and junction protection review
+1060,342,463,Lambeth,A23,51.425,-0.13,2.217,62,6.0,0,Junction,Junction layout and signal review
+1068,375,464,Hackney,A107,51.572,-0.065,2.217,34,8.0,0,Pedestrian,Pedestrian crossing and speed review
+770,791,465,Manchester,B5117,53.458,-2.225,2.217,21,6.0,0,Cycle,Cycle separation and junction protection review
+1055,342,466,Wandsworth,A217,51.426,-0.165,2.216,56,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+861,866,467,Leeds,A61,53.796,-1.534,2.211,31,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1046,362,468,Hammersmith and Fulham,A219,51.516,-0.226,2.21,53,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+671,781,469,Liverpool,A5047,53.41,-2.968,2.209,28,6.074,1,Junction,Junction layout and signal review
+1055,344,470,Wandsworth,A24,51.435,-0.162,2.205,50,7.0,0,Cycle,Cycle separation and junction protection review
+1010,499,471,Bedford,A600,52.136,-0.465,2.203,22,6.0,0,Cycle,Cycle separation and junction protection review
+816,570,472,Birmingham,A41,52.466,-1.879,2.201,21,6.0,0,Junction,Junction layout and signal review
+1050,363,473,Westminster,A404,51.521,-0.195,2.201,30,6.0,0,Junction,Junction layout and signal review
+1153,334,474,Medway,A2,51.377,0.538,2.2,34,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1075,349,475,Lewisham,A21,51.455,-0.018,2.199,44,6.0,0,Cycle,Cycle separation and junction protection review
+1067,381,476,Haringey,A1010,51.6,-0.069,2.196,38,8.0,0,Junction,Junction layout and signal review
+516,1331,477,Glasgow City,A804,55.864,-4.267,2.19,27,8.0,2,Junction,Junction layout and signal review
+1067,382,478,Haringey,A1010,51.605,-0.069,2.19,56,6.0,0,Junction,Junction layout and signal review
+914,678,479,Nottingham,A6008,52.947,-1.148,2.188,26,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1055,364,480,Westminster,A41,51.525,-0.16,2.183,33,6.0,0,Cycle,Cycle separation and junction protection review
+1063,361,481,City of London,A201,51.511,-0.104,2.183,31,7.116,0,Cycle,Cycle separation and junction protection review
+1063,210,482,Brighton and Hove,A270,50.832,-0.13,2.177,28,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1056,364,483,Westminster,A501,51.524,-0.153,2.174,33,7.0,1,Cycle,Cycle separation and junction protection review
+1016,861,484,"Kingston upon Hull, City of",Local road,53.762,-0.359,2.174,24,7.0,0,Pedestrian,Pedestrian crossing and speed review
+818,572,485,Birmingham,B4128,52.474,-1.865,2.172,30,4.0,0,Pedestrian,Pedestrian crossing and speed review
+1095,375,486,Barking and Dagenham,A118,51.57,0.13,2.171,37,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1069,367,487,Hackney,A107,51.537,-0.058,2.164,30,5.0,0,Cycle,Cycle separation and junction protection review
+1038,356,488,Hounslow,A4,51.491,-0.284,2.162,57,5.0,0,Cycle,Cycle separation and junction protection review
+921,902,489,York,A1036,53.954,-1.075,2.162,20,6.259,0,Cycle,Cycle separation and junction protection review
+1073,374,490,Waltham Forest,A104,51.569,-0.03,2.162,41,5.0,0,Cycle,Cycle separation and junction protection review
+863,870,491,Leeds,A58,53.813,-1.52,2.156,32,9.0,0,Junction,Junction layout and signal review
+812,575,492,Birmingham,B4100,52.488,-1.91,2.156,20,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1055,338,493,Merton,A217,51.408,-0.165,2.153,44,10.0,0,Junction,Junction layout and signal review
+830,869,494,Bradford,A650,53.809,-1.77,2.152,26,8.0,0,Junction,Junction layout and signal review
+813,573,495,Birmingham,A38,52.478,-1.902,2.147,32,3.0,0,Pedestrian,Pedestrian crossing and speed review
+1051,340,496,Merton,A219,51.417,-0.194,2.145,35,9.0,0,Junction,Junction layout and signal review
+913,680,497,Nottingham,A610,52.956,-1.157,2.137,36,5.0,0,Darkness,Lighting and conspicuity audit
+834,864,498,Bradford,A650,53.787,-1.74,2.134,31,6.0,0,Darkness,Lighting and conspicuity audit
+1050,368,499,Camden,A5,51.542,-0.196,2.131,36,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+1176,371,500,Southend-on-Sea,A13,51.54,0.713,2.128,28,10.0,0,Pedestrian,Pedestrian crossing and speed review
+801,581,501,Sandwell,A4031,52.515,-1.99,2.126,15,5.0,0,Pedestrian,Pedestrian crossing and speed review
+870,672,502,Derby,Local road,52.922,-1.475,2.125,25,4.515,0,Cycle,Cycle separation and junction protection review
+1063,359,503,Southwark,A201,51.502,-0.104,2.124,29,7.0,0,Cycle,Cycle separation and junction protection review
+1305,614,504,Great Yarmouth,B1141,52.604,1.731,2.124,25,8.0,1,Pedestrian,Pedestrian crossing and speed review
+1059,347,505,Lambeth,A205,51.448,-0.134,2.121,42,13.0,2,Cycle,Cycle separation and junction protection review
+1057,346,506,Wandsworth,A24,51.444,-0.151,2.119,60,10.0,0,Cycle,Cycle separation and junction protection review
+822,183,507,"Bournemouth, Christchurch and Poole",A35,50.725,-1.843,2.117,31,10.029,0,Pedestrian,Pedestrian crossing and speed review
+1068,386,508,Enfield,A1010,51.622,-0.062,2.116,45,6.0,0,Junction,Junction layout and signal review
+831,868,509,Bradford,A650,53.804,-1.762,2.112,22,8.0,0,Junction,Junction layout and signal review
+952,521,510,West Northamptonshire,A4500,52.24,-0.885,2.107,31,6.359,0,Junction,Junction layout and signal review
+783,597,511,Wolverhampton,A4150,52.587,-2.124,2.105,28,8.0,0,Pedestrian,Pedestrian crossing and speed review
+942,346,512,Reading,A329,51.454,-0.976,2.103,31,6.626,0,Cycle,Cycle separation and junction protection review
+818,850,513,Calderdale,A629,53.723,-1.862,2.103,32,9.0,0,Pedestrian,Pedestrian crossing and speed review
+1065,687,514,Boston,A52,52.975,-0.025,2.102,35,5.254,0,Pedestrian,Pedestrian crossing and speed review
+835,865,515,Bradford,A647,53.792,-1.733,2.101,29,7.0,0,Darkness,Lighting and conspicuity audit
+1073,355,516,Lewisham,A200,51.483,-0.032,2.101,35,8.0,1,Cycle,Cycle separation and junction protection review
+1043,371,517,Brent,A4088,51.558,-0.246,2.099,31,1.0,0,Motorcycle,Motorcycle route and junction visibility review
+1064,329,518,Croydon,A235,51.367,-0.101,2.096,37,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1230,490,519,Ipswich,A1214,52.064,1.139,2.096,39,1.0,0,Junction,Junction layout and signal review
+813,578,520,Birmingham,B4144,52.502,-1.902,2.095,31,10.0,0,Junction,Junction layout and signal review
+1070,392,521,Enfield,A1010,51.649,-0.047,2.095,38,4.0,0,Junction,Junction layout and signal review
+1047,362,522,Kensington and Chelsea,A40,51.516,-0.218,2.095,35,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+869,812,523,Barnsley,A628,53.551,-1.477,2.087,24,10.0,0,Pedestrian,Pedestrian crossing and speed review
+670,787,524,Liverpool,A59,53.436,-2.974,2.086,24,7.756,0,Junction,Junction layout and signal review
+718,348,525,"Bristol, City of",A38,51.466,-2.589,2.086,28,8.5,0,Cycle,Cycle separation and junction protection review
+1049,362,526,Kensington and Chelsea,B412,51.517,-0.204,2.083,38,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+1035,361,527,Ealing,A4020,51.513,-0.305,2.082,48,10.0,0,Cycle,Cycle separation and junction protection review
+720,347,528,"Bristol, City of",A4320,51.462,-2.573,2.082,29,6.293,0,Junction,Junction layout and signal review
+870,771,529,Sheffield,A621,53.367,-1.472,2.07,22,9.0,0,Pedestrian,Pedestrian crossing and speed review
+1073,364,530,Tower Hamlets,A1205,51.522,-0.032,2.07,21,4.0,0,Junction,Junction layout and signal review
+867,841,531,Wakefield,A61,53.682,-1.492,2.07,22,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1018,443,532,Luton,A6,51.883,-0.414,2.069,31,9.0,0,Pedestrian,Pedestrian crossing and speed review
+1023,352,533,Hounslow,A4,51.475,-0.393,2.066,41,10.0,1,Darkness,Lighting and conspicuity audit
+1091,374,534,Redbridge,A118,51.565,0.101,2.065,31,5.0,0,Junction,Junction layout and signal review
+1078,356,535,Greenwich,A206,51.485,0.005,2.058,38,9.0,0,Motorcycle,Motorcycle route and junction visibility review
+1058,354,536,Wandsworth,A3205,51.48,-0.141,2.058,35,6.0,0,Cycle,Cycle separation and junction protection review
+1049,353,537,Hammersmith and Fulham,A304,51.476,-0.205,2.055,26,7.0,0,Cycle,Cycle separation and junction protection review
+1038,358,538,Ealing,A406,51.501,-0.285,2.055,41,6.0,1,Motorcycle,Motorcycle route and junction visibility review
+662,871,539,Blackpool,B5390,53.814,-3.045,2.051,19,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1061,209,540,Brighton and Hove,A2010,50.827,-0.143,2.049,20,3.0,0,Pedestrian,Pedestrian crossing and speed review
+671,779,541,Liverpool,A5039,53.401,-2.969,2.049,23,7.475,0,Darkness,Lighting and conspicuity audit
+1048,349,542,Wandsworth,A205,51.459,-0.212,2.048,33,4.0,1,Cycle,Cycle separation and junction protection review
+1066,368,543,Hackney,A10,51.541,-0.079,2.048,35,13.0,0,Cycle,Cycle separation and junction protection review
+861,867,544,Leeds,A61,53.8,-1.535,2.047,30,4.066,0,Darkness,Lighting and conspicuity audit
+1080,364,545,Newham,A124,51.522,0.021,2.045,42,7.0,1,Junction,Junction layout and signal review
+930,200,546,Portsmouth,A2047,50.798,-1.076,2.043,31,4.645,0,Cycle,Cycle separation and junction protection review
+680,1111,547,Cumberland,A7,54.893,-2.933,2.04,20,3.0,1,Pedestrian,Pedestrian crossing and speed review
+911,681,548,Nottingham,A610,52.962,-1.171,2.039,33,5.0,0,Darkness,Lighting and conspicuity audit
+1018,442,549,Luton,A505,51.879,-0.414,2.033,25,4.0,0,Pedestrian,Pedestrian crossing and speed review
+982,671,550,South Kesteven,A52,52.911,-0.644,2.031,32,4.371,1,Junction,Junction layout and signal review
+735,856,551,Blackburn with Darwen,A6078,53.75,-2.49,2.03,25,5.0,0,Junction,Junction layout and signal review
+1001,317,552,Woking,Local road,51.319,-0.556,2.029,31,6.0,0,Pedestrian,Pedestrian crossing and speed review
+850,1127,553,Newcastle upon Tyne,A167,54.968,-1.606,2.029,26,4.0,0,Darkness,Lighting and conspicuity audit
+676,788,554,Liverpool,A580,53.442,-2.931,2.027,29,7.817,1,Pedestrian,Pedestrian crossing and speed review
+652,1346,555,City of Edinburgh,A7,55.946,-3.185,2.025,14,7.0,0,Cycle,Cycle separation and junction protection review
+669,779,556,Liverpool,B5339,53.401,-2.982,2.024,24,4.974,0,Pedestrian,Pedestrian crossing and speed review
+811,578,557,Birmingham,B4144,52.502,-1.917,2.023,34,6.0,0,Pedestrian,Pedestrian crossing and speed review
+819,576,558,Birmingham,B4114,52.492,-1.858,2.022,32,8.0,1,Junction,Junction layout and signal review
+1065,370,559,Islington,A105,51.551,-0.085,2.018,31,5.0,0,Cycle,Cycle separation and junction protection review
+1038,383,560,Barnet,A5,51.612,-0.279,2.015,56,11.0,1,Junction,Junction layout and signal review
+1028,351,561,Hounslow,A315,51.47,-0.356,2.015,43,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1074,354,562,Lewisham,A2209,51.477,-0.025,2.013,29,5.0,0,Cycle,Cycle separation and junction protection review
+1064,330,563,Croydon,A235,51.37,-0.101,2.008,25,5.0,0,Pedestrian,Pedestrian crossing and speed review
+927,199,564,Portsmouth,A3,50.794,-1.096,2.007,20,4.679,0,Cycle,Cycle separation and junction protection review
+870,670,565,Derby,Local road,52.914,-1.478,2.006,32,4.709,0,Pedestrian,Pedestrian crossing and speed review
+920,904,566,York,A19,53.962,-1.085,2.005,24,5.704,0,Cycle,Cycle separation and junction protection review
+1063,368,567,Islington,A1,51.542,-0.102,2.004,35,4.0,0,Cycle,Cycle separation and junction protection review
+1112,726,568,East Lindsey,A52,53.144,0.335,2.003,31,6.238,0,Pedestrian,Pedestrian crossing and speed review
+1050,381,569,Barnet,A598,51.602,-0.193,2.001,35,6.0,0,Junction,Junction layout and signal review
+1047,356,570,Hammersmith and Fulham,A219,51.49,-0.22,2.001,22,7.0,1,Junction,Junction layout and signal review
+1047,365,571,Brent,B450,51.53,-0.217,1.999,39,5.0,0,Cycle,Cycle separation and junction protection review
+1057,327,572,Sutton,A237,51.358,-0.151,1.998,42,11.0,0,Motorcycle,Motorcycle route and junction visibility review
+808,575,573,Birmingham,A457,52.487,-1.938,1.998,45,7.0,0,Junction,Junction layout and signal review
+1048,362,574,Kensington and Chelsea,B450,51.517,-0.21,1.997,50,9.0,0,Motorcycle,Motorcycle route and junction visibility review
+1085,348,575,Greenwich,A210,51.451,0.052,1.997,35,11.0,0,Darkness,Lighting and conspicuity audit
+1021,393,576,Watford,A411,51.659,-0.4,1.996,28,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1075,361,577,Tower Hamlets,A13,51.509,-0.017,1.995,36,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1065,393,578,Enfield,A110,51.653,-0.081,1.993,36,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1067,365,579,Hackney,A1208,51.528,-0.075,1.992,24,4.0,0,Cycle,Cycle separation and junction protection review
+1053,368,580,Camden,A41,51.543,-0.174,1.99,45,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1074,339,581,Bromley,A2015,51.411,-0.026,1.99,40,8.0,0,Pedestrian,Pedestrian crossing and speed review
+883,224,582,Southampton ,A3024,50.908,-1.407,1.989,37,5.556,0,Pedestrian,Pedestrian crossing and speed review
+870,669,583,Derby,Local road,52.91,-1.478,1.988,31,4.057,0,Pedestrian,Pedestrian crossing and speed review
+1073,376,584,Waltham Forest,A1006,51.576,-0.029,1.987,25,5.0,0,Cycle,Cycle separation and junction protection review
+810,578,585,Birmingham,A41,52.501,-1.924,1.985,33,4.0,1,Pedestrian,Pedestrian crossing and speed review
+1016,859,586,"Kingston upon Hull, City of",Local road,53.752,-0.36,1.985,35,9.0,0,Cycle,Cycle separation and junction protection review
+1085,367,587,Newham,A124,51.534,0.056,1.984,56,10.0,0,Junction,Junction layout and signal review
+1068,391,588,Enfield,A10,51.645,-0.061,1.984,32,5.0,1,Junction,Junction layout and signal review
+1059,366,589,Camden,A5202,51.534,-0.13,1.984,35,8.0,0,Cycle,Cycle separation and junction protection review
+1016,443,590,Luton,A505,51.884,-0.428,1.984,43,7.0,1,Pedestrian,Pedestrian crossing and speed review
+828,867,591,Bradford,A6177,53.799,-1.784,1.982,27,4.0,0,Darkness,Lighting and conspicuity audit
+1063,344,592,Lambeth,A215,51.434,-0.104,1.98,39,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1152,310,593,Maidstone,A229,51.27,0.526,1.98,28,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1049,378,594,Barnet,A406,51.589,-0.2,1.979,56,6.0,0,Junction,Junction layout and signal review
+496,109,595,Plymouth,A374,50.372,-4.135,1.978,27,8.0,0,Pedestrian,Pedestrian crossing and speed review
+849,1129,596,Newcastle upon Tyne,B1307,54.977,-1.615,1.975,25,5.0,0,Pedestrian,Pedestrian crossing and speed review
+1037,370,597,Brent,A404,51.554,-0.288,1.974,37,5.0,0,Junction,Junction layout and signal review
+1049,369,598,Brent,A5,51.547,-0.203,1.972,45,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+1021,392,599,Watford,A4178,51.654,-0.4,1.972,36,4.0,0,Junction,Junction layout and signal review
+1057,369,600,Camden,A400,51.547,-0.143,1.971,48,4.0,0,Cycle,Cycle separation and junction protection review
+1016,857,601,"Kingston upon Hull, City of",A1105,53.743,-0.36,1.97,30,6.0,1,Junction,Junction layout and signal review
+950,520,602,West Northamptonshire,A428,52.235,-0.899,1.969,51,5.743,1,Junction,Junction layout and signal review
+1074,382,603,Waltham Forest,A406,51.603,-0.018,1.968,39,6.0,0,Darkness,Lighting and conspicuity audit
+858,870,604,Leeds,A660,53.813,-1.558,1.967,30,6.0,0,Cycle,Cycle separation and junction protection review
+718,346,605,"Bristol, City of",Local road,51.457,-2.587,1.965,28,8.062,0,Motorcycle,Motorcycle route and junction visibility review
+1051,351,606,Hammersmith and Fulham,A217,51.467,-0.19,1.964,30,4.0,0,Cycle,Cycle separation and junction protection review
+1080,366,607,Newham,A112,51.531,0.021,1.962,34,5.0,0,Junction,Junction layout and signal review
+856,868,608,Leeds,A65,53.804,-1.572,1.961,20,5.0,0,Cycle,Cycle separation and junction protection review
+1060,374,609,Islington,A103,51.569,-0.123,1.96,32,8.0,0,Cycle,Cycle separation and junction protection review
+804,572,610,Sandwell,A4030,52.474,-1.968,1.959,32,7.0,1,Junction,Junction layout and signal review
+807,579,611,Birmingham,A41,52.505,-1.947,1.959,24,7.0,1,Pedestrian,Pedestrian crossing and speed review
+1022,859,612,"Kingston upon Hull, City of",A165,53.752,-0.315,1.958,30,9.0,0,Cycle,Cycle separation and junction protection review
+1020,858,613,"Kingston upon Hull, City of",A165,53.747,-0.329,1.958,34,8.0,0,Junction,Junction layout and signal review
+695,923,614,Lancaster,A6,54.049,-2.8,1.953,29,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1033,360,615,Ealing,A4020,51.511,-0.319,1.953,30,8.0,1,Motorcycle,Motorcycle route and junction visibility review
+919,902,616,York,A1036,53.955,-1.092,1.951,19,3.313,0,Cycle,Cycle separation and junction protection review
+813,575,617,Birmingham,B4100,52.488,-1.903,1.951,20,5.0,0,Darkness,Lighting and conspicuity audit
+808,579,618,Birmingham,A41,52.504,-1.939,1.951,23,3.0,0,Pedestrian,Pedestrian crossing and speed review
+1037,356,619,Hounslow,A4,51.49,-0.29,1.948,32,9.0,0,Junction,Junction layout and signal review
+1058,383,620,Enfield,A406,51.611,-0.136,1.947,42,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1035,356,621,Hounslow,A4,51.491,-0.305,1.945,35,8.0,1,Motorcycle,Motorcycle route and junction visibility review
+882,224,622,Southampton ,A33,50.908,-1.415,1.945,30,8.401,0,Junction,Junction layout and signal review
+1060,347,623,Lambeth,A205,51.447,-0.126,1.945,28,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+829,864,624,Bradford,A6177,53.786,-1.777,1.944,20,5.0,1,Pedestrian,Pedestrian crossing and speed review
+1043,369,625,Brent,A407,51.549,-0.246,1.944,29,6.0,1,Pedestrian,Pedestrian crossing and speed review
+995,742,626,Lincoln,A15,53.229,-0.537,1.944,26,8.382,0,Pedestrian,Pedestrian crossing and speed review
+1060,344,627,Lambeth,A23,51.434,-0.128,1.942,60,13.0,1,Motorcycle,Motorcycle route and junction visibility review
+1151,335,628,Medway,A2,51.382,0.523,1.942,43,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1031,376,629,Harrow,A409,51.581,-0.331,1.942,35,7.0,0,Junction,Junction layout and signal review
+1061,365,630,Camden,A5200,51.528,-0.118,1.941,27,8.0,0,Cycle,Cycle separation and junction protection review
+1076,343,631,Lewisham,A21,51.428,-0.013,1.941,36,6.0,0,Junction,Junction layout and signal review
+1087,368,632,Barking and Dagenham,A124,51.538,0.071,1.941,64,6.0,0,Darkness,Lighting and conspicuity audit
+1067,376,633,Haringey,A10,51.577,-0.072,1.94,60,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+1232,489,634,Ipswich,A1156,52.059,1.153,1.938,19,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1059,359,635,Westminster,A302,51.501,-0.131,1.937,13,7.0,0,Cycle,Cycle separation and junction protection review
+1059,369,636,Camden,A503,51.547,-0.13,1.936,38,6.0,0,Cycle,Cycle separation and junction protection review
+1062,336,637,Croydon,A23,51.398,-0.116,1.936,59,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+1079,363,638,Newham,A124,51.517,0.012,1.936,61,8.0,1,Motorcycle,Motorcycle route and junction visibility review
+1060,817,639,North East Lincolnshire,A180,53.56,-0.035,1.935,27,11.0,0,Pedestrian,Pedestrian crossing and speed review
+821,583,640,Birmingham,A5127,52.523,-1.843,1.935,34,5.0,0,Pedestrian,Pedestrian crossing and speed review
+651,1348,641,City of Edinburgh,A900,55.955,-3.19,1.932,19,9.0,0,Cycle,Cycle separation and junction protection review
+1147,338,642,Medway,A2,51.395,0.495,1.932,39,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1087,371,643,Redbridge,A123,51.552,0.074,1.931,42,4.0,0,Pedestrian,Pedestrian crossing and speed review
+723,347,644,"Bristol, City of",A420,51.461,-2.553,1.931,27,8.207,0,Cycle,Cycle separation and junction protection review
+494,110,645,Plymouth,A386,50.377,-4.148,1.93,32,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+768,794,646,Manchester,A34,53.472,-2.239,1.929,29,6.0,0,Cycle,Cycle separation and junction protection review
+1030,379,647,Harrow,A409,51.594,-0.337,1.929,34,8.0,0,Pedestrian,Pedestrian crossing and speed review
+768,865,648,Burnley,A682,53.79,-2.239,1.928,27,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1080,356,649,Greenwich,A102,51.487,0.018,1.928,33,6.0,0,Darkness,Lighting and conspicuity audit
+1038,377,650,Brent,A4006,51.585,-0.28,1.926,41,5.0,0,Darkness,Lighting and conspicuity audit
+715,346,651,"Bristol, City of",A4018,51.457,-2.609,1.925,22,6.403,0,Cycle,Cycle separation and junction protection review
+920,607,652,Leicester,B6416,52.628,-1.111,1.925,22,4.266,0,Junction,Junction layout and signal review
+832,867,653,Bradford,A6181,53.799,-1.755,1.923,23,4.0,1,Junction,Junction layout and signal review
+1057,210,654,Brighton and Hove,Local road,50.832,-0.172,1.922,28,6.0,0,Cycle,Cycle separation and junction protection review
+1090,516,655,Cambridge,Local road,52.204,0.123,1.921,24,4.0,0,Cycle,Cycle separation and junction protection review
+1062,362,656,City of London,A4,51.515,-0.11,1.921,26,4.015,0,Cycle,Cycle separation and junction protection review
+1076,355,657,Greenwich,A206,51.481,-0.01,1.92,34,4.0,0,Junction,Junction layout and signal review
+1069,346,658,Lewisham,A205,51.441,-0.063,1.917,33,8.0,0,Cycle,Cycle separation and junction protection review
+908,690,659,Nottingham,B682,53.002,-1.195,1.916,28,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1068,354,660,Southwark,B215,51.478,-0.07,1.912,26,7.0,0,Cycle,Cycle separation and junction protection review
+817,182,661,"Bournemouth, Christchurch and Poole",Local road,50.721,-1.877,1.911,20,5.926,0,Cycle,Cycle separation and junction protection review
+1007,976,662,North Yorkshire,A165,54.28,-0.408,1.909,16,6.845,0,Pedestrian,Pedestrian crossing and speed review
+1061,384,663,Enfield,A406,51.613,-0.111,1.908,47,7.0,0,Junction,Junction layout and signal review
+828,863,664,Bradford,A647,53.781,-1.785,1.908,18,7.0,1,Junction,Junction layout and signal review
+1035,349,665,Richmond upon Thames,A307,51.459,-0.306,1.906,24,9.0,0,Pedestrian,Pedestrian crossing and speed review
+1055,357,666,Kensington and Chelsea,A3217,51.493,-0.161,1.906,33,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+1052,815,667,North East Lincolnshire,A46,53.552,-0.095,1.905,22,6.0,0,Cycle,Cycle separation and junction protection review
+831,369,668,Swindon,B4289,51.562,-1.772,1.904,32,6.062,0,Darkness,Lighting and conspicuity audit
+1060,371,669,Islington,A503,51.556,-0.121,1.903,30,6.0,1,Cycle,Cycle separation and junction protection review
+1061,337,670,Croydon,A23,51.403,-0.119,1.902,32,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+1049,366,671,Brent,B413,51.534,-0.204,1.902,46,4.0,0,Junction,Junction layout and signal review
+1062,333,672,Croydon,A236,51.385,-0.116,1.902,23,8.0,0,Junction,Junction layout and signal review
+1081,364,673,Newham,A112,51.522,0.027,1.9,25,6.0,0,Pedestrian,Pedestrian crossing and speed review
+878,1113,674,Sunderland,A1231,54.904,-1.388,1.897,31,5.0,0,Junction,Junction layout and signal review
+1049,368,675,Brent,A5,51.544,-0.202,1.896,42,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+813,572,676,Birmingham,B4127,52.475,-1.901,1.895,38,7.0,0,Darkness,Lighting and conspicuity audit
+1072,366,677,Tower Hamlets,A1205,51.531,-0.04,1.894,28,5.0,0,Cycle,Cycle separation and junction protection review
+767,798,678,Manchester,A6042,53.489,-2.247,1.894,18,8.0,0,Cycle,Cycle separation and junction protection review
+1060,346,679,Lambeth,A23,51.444,-0.125,1.892,29,6.0,1,Junction,Junction layout and signal review
+1013,857,680,"Kingston upon Hull, City of",A1105,53.744,-0.383,1.892,33,4.0,0,Cycle,Cycle separation and junction protection review
+1053,361,681,Westminster,A402,51.512,-0.174,1.89,32,5.0,0,Cycle,Cycle separation and junction protection review
+831,865,682,Bradford,A647,53.791,-1.76,1.889,18,4.0,0,Pedestrian,Pedestrian crossing and speed review
+807,575,683,Birmingham,A457,52.487,-1.947,1.886,29,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1061,360,684,Lambeth,A301,51.505,-0.115,1.886,17,5.0,0,Cycle,Cycle separation and junction protection review
+1020,862,685,"Kingston upon Hull, City of",A1165,53.767,-0.329,1.885,37,10.0,1,Darkness,Lighting and conspicuity audit
+494,108,686,Plymouth,A374,50.369,-4.15,1.884,30,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1058,384,687,Enfield,A1110,51.615,-0.134,1.883,21,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1059,353,688,Lambeth,A3036,51.475,-0.132,1.883,28,4.0,0,Cycle,Cycle separation and junction protection review
+866,558,689,Coventry,B4098,52.411,-1.513,1.882,24,4.0,0,Pedestrian,Pedestrian crossing and speed review
+1062,349,690,Lambeth,A204,51.456,-0.114,1.881,34,3.0,0,Junction,Junction layout and signal review
+809,578,691,Birmingham,A41,52.502,-1.932,1.88,29,9.0,1,Pedestrian,Pedestrian crossing and speed review
+1071,346,692,Lewisham,A205,51.442,-0.048,1.88,30,7.0,0,Cycle,Cycle separation and junction protection review
+1065,385,693,Enfield,A10,51.617,-0.086,1.879,76,9.0,1,Darkness,Lighting and conspicuity audit
+814,568,694,Birmingham,B4217,52.457,-1.895,1.878,33,9.0,0,Pedestrian,Pedestrian crossing and speed review
+870,770,695,Unknown,A61,53.363,-1.472,1.878,18,6.0,0,Cycle,Cycle separation and junction protection review
+1067,342,696,Southwark,A212,51.425,-0.076,1.877,27,6.0,0,Darkness,Lighting and conspicuity audit
+1061,369,697,Islington,A5203,51.547,-0.117,1.877,27,8.0,0,Cycle,Cycle separation and junction protection review
+1061,349,698,Lambeth,A23,51.456,-0.119,1.875,33,8.0,0,Junction,Junction layout and signal review
+1021,362,699,Hillingdon,A4020,51.518,-0.406,1.875,31,4.0,0,Junction,Junction layout and signal review
+1074,377,700,Waltham Forest,A112,51.582,-0.02,1.873,28,6.0,0,Junction,Junction layout and signal review
+1065,359,701,Southwark,A2198,51.501,-0.089,1.871,27,7.0,0,Cycle,Cycle separation and junction protection review
+672,781,702,Liverpool,A57,53.41,-2.962,1.871,23,7.504,0,Pedestrian,Pedestrian crossing and speed review
+1069,355,703,Southwark,A2,51.482,-0.062,1.871,28,7.0,1,Cycle,Cycle separation and junction protection review
+1061,355,704,Lambeth,A202,51.485,-0.119,1.867,27,6.0,0,Cycle,Cycle separation and junction protection review
+1151,311,705,Maidstone,A229,51.274,0.519,1.865,27,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1056,275,706,Crawley,A2011,51.126,-0.169,1.865,38,10.0,0,Darkness,Lighting and conspicuity audit
+927,200,707,Portsmouth,A3,50.798,-1.097,1.865,22,3.776,0,Junction,Junction layout and signal review
+917,610,708,Leicester,A594,52.641,-1.132,1.864,20,6.383,0,Junction,Junction layout and signal review
+636,352,709,Cardiff,A4161,51.479,-3.179,1.864,11,3.592,0,Pedestrian,Pedestrian crossing and speed review
+1065,331,710,Croydon,A212,51.375,-0.094,1.863,34,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1053,358,711,Westminster,A4,51.498,-0.174,1.861,25,10.0,0,Cycle,Cycle separation and junction protection review
+1065,336,712,Croydon,B266,51.398,-0.093,1.859,63,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1068,356,713,Southwark,A2,51.486,-0.068,1.857,32,7.0,0,Cycle,Cycle separation and junction protection review
+719,348,714,"Bristol, City of",B4051,51.466,-2.581,1.856,26,5.29,0,Darkness,Lighting and conspicuity audit
+672,780,715,Liverpool,A5048,53.405,-2.961,1.856,27,6.508,0,Junction,Junction layout and signal review
+816,574,716,Birmingham,A4540,52.483,-1.88,1.855,32,4.0,0,Darkness,Lighting and conspicuity audit
+1059,384,717,Enfield,A406,51.615,-0.127,1.855,35,10.0,0,Darkness,Lighting and conspicuity audit
+1070,353,718,Southwark,A202,51.473,-0.054,1.855,30,6.0,0,Cycle,Cycle separation and junction protection review
+1076,379,719,Waltham Forest,A503,51.59,-0.006,1.854,29,6.0,0,Junction,Junction layout and signal review
+1009,499,720,Bedford,A600,52.136,-0.472,1.854,21,7.0,1,Pedestrian,Pedestrian crossing and speed review
+915,679,721,Nottingham,A6008,52.953,-1.14,1.853,32,5.0,0,Pedestrian,Pedestrian crossing and speed review
+834,866,722,Bradford,A650,53.795,-1.74,1.852,25,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1076,354,723,Greenwich,A206,51.478,-0.012,1.851,20,2.0,0,Cycle,Cycle separation and junction protection review
+1065,382,724,Haringey,A10,51.605,-0.086,1.847,32,8.0,1,Junction,Junction layout and signal review
+1070,358,725,Southwark,A200,51.496,-0.052,1.846,32,7.0,0,Cycle,Cycle separation and junction protection review
+1061,356,726,Lambeth,A3204,51.487,-0.119,1.846,33,6.0,0,Cycle,Cycle separation and junction protection review
+672,785,727,Liverpool,A5089,53.429,-2.96,1.845,18,7.329,0,Cycle,Cycle separation and junction protection review
+1028,364,728,Ealing,B455,51.528,-0.353,1.844,50,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1057,351,729,Lambeth,A3216,51.467,-0.149,1.844,27,5.0,0,Cycle,Cycle separation and junction protection review
+913,683,730,Nottingham,A60,52.97,-1.155,1.842,34,9.0,0,Junction,Junction layout and signal review
+1008,343,731,Spelthorne,A308,51.436,-0.501,1.841,32,5.0,0,Darkness,Lighting and conspicuity audit
+1064,375,732,Hackney,A503,51.572,-0.094,1.841,43,4.0,0,Junction,Junction layout and signal review
+866,868,733,Leeds,A64,53.801,-1.497,1.838,25,10.0,0,Junction,Junction layout and signal review
+911,680,734,Nottingham,A609,52.956,-1.171,1.837,23,7.0,0,Cycle,Cycle separation and junction protection review
+1038,372,735,Brent,A4089,51.563,-0.281,1.834,49,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+516,1332,736,Glasgow City,A804,55.869,-4.269,1.834,11,4.0,0,Darkness,Lighting and conspicuity audit
+1070,366,737,Tower Hamlets,B118,51.532,-0.051,1.834,25,7.0,0,Cycle,Cycle separation and junction protection review
+1014,357,738,Hillingdon,A408,51.497,-0.454,1.833,53,7.0,1,Darkness,Lighting and conspicuity audit
+1060,382,739,Haringey,A109,51.605,-0.122,1.832,18,2.0,0,Junction,Junction layout and signal review
+1062,361,740,City of London,A3211,51.511,-0.109,1.832,20,7.0,0,Cycle,Cycle separation and junction protection review
+1062,353,741,Lambeth,A23,51.474,-0.113,1.831,31,4.0,0,Cycle,Cycle separation and junction protection review
+1066,339,742,Croydon,A212,51.412,-0.087,1.83,47,10.0,0,Motorcycle,Motorcycle route and junction visibility review
+869,776,743,Sheffield,A61,53.39,-1.479,1.83,30,5.0,1,Junction,Junction layout and signal review
+1057,355,744,Westminster,A3216,51.485,-0.149,1.83,31,8.0,0,Cycle,Cycle separation and junction protection review
+1064,336,745,Croydon,B266,51.398,-0.101,1.829,58,11.0,1,Motorcycle,Motorcycle route and junction visibility review
+1075,355,746,Greenwich,A200,51.481,-0.018,1.829,34,11.0,0,Cycle,Cycle separation and junction protection review
+1014,857,747,"Kingston upon Hull, City of",A1105,53.744,-0.376,1.829,28,5.0,0,Cycle,Cycle separation and junction protection review
+931,211,748,Portsmouth,A3,50.847,-1.067,1.827,32,3.848,0,Junction,Junction layout and signal review
+856,869,749,Leeds,Local road,53.808,-1.574,1.826,25,11.0,0,Junction,Junction layout and signal review
+1066,375,750,Hackney,A107,51.574,-0.079,1.824,23,4.0,0,Cycle,Cycle separation and junction protection review
+1067,350,751,Southwark,A2216,51.46,-0.076,1.824,30,5.0,0,Cycle,Cycle separation and junction protection review
+814,563,752,Birmingham,A435,52.434,-1.893,1.824,19,4.0,0,Pedestrian,Pedestrian crossing and speed review
+828,833,753,Kirklees,A62,53.647,-1.785,1.823,26,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1082,366,754,Newham,A124,51.53,0.036,1.823,51,3.0,0,Junction,Junction layout and signal review
+1070,371,755,Hackney,A107,51.554,-0.052,1.821,24,6.0,0,Cycle,Cycle separation and junction protection review
+1058,352,756,Lambeth,A3036,51.47,-0.14,1.82,31,5.0,1,Cycle,Cycle separation and junction protection review
+1046,361,757,Hammersmith and Fulham,A219,51.512,-0.225,1.82,30,4.0,0,Cycle,Cycle separation and junction protection review
+1084,367,758,Newham,A117,51.534,0.051,1.819,26,3.0,0,Junction,Junction layout and signal review
+918,610,759,Leicester,A594,52.641,-1.127,1.817,17,4.042,0,Pedestrian,Pedestrian crossing and speed review
+872,775,760,Sheffield,A57,53.385,-1.456,1.817,19,7.0,1,Darkness,Lighting and conspicuity audit
+1068,364,761,Tower Hamlets,B108,51.523,-0.065,1.816,33,5.0,0,Cycle,Cycle separation and junction protection review
+1038,596,762,Peterborough,A15,52.569,-0.241,1.81,18,6.0,0,Cycle,Cycle separation and junction protection review
+859,867,763,Leeds,Local road,53.8,-1.55,1.809,24,6.0,1,Pedestrian,Pedestrian crossing and speed review
+518,1329,764,Glasgow City,A814,55.856,-4.25,1.809,15,9.0,0,Pedestrian,Pedestrian crossing and speed review
+805,575,765,Sandwell,A4092,52.487,-1.96,1.809,25,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1057,354,766,Wandsworth,A3216,51.479,-0.148,1.809,31,4.0,0,Cycle,Cycle separation and junction protection review
+705,860,767,Preston,A583,53.765,-2.718,1.809,20,8.0,1,Junction,Junction layout and signal review
+1050,361,768,Kensington and Chelsea,A4206,51.511,-0.196,1.809,26,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+718,345,769,"Bristol, City of",B4053,51.452,-2.588,1.808,31,8.3,0,Cycle,Cycle separation and junction protection review
+1070,346,770,Lewisham,A205,51.441,-0.055,1.808,28,6.0,0,Cycle,Cycle separation and junction protection review
+1151,312,771,Maidstone,A229,51.279,0.519,1.807,22,6.0,1,Darkness,Lighting and conspicuity audit
+1068,357,772,Southwark,A2206,51.492,-0.068,1.806,31,6.0,1,Motorcycle,Motorcycle route and junction visibility review
+1021,357,773,Hounslow,A312,51.498,-0.407,1.805,43,7.0,0,Darkness,Lighting and conspicuity audit
+884,222,774,Southampton ,A33,50.899,-1.4,1.804,31,8.196,0,Junction,Junction layout and signal review
+695,922,775,Lancaster,A6,54.045,-2.8,1.804,17,11.0,0,Pedestrian,Pedestrian crossing and speed review
+883,225,776,Southampton ,A3024,50.912,-1.407,1.803,21,5.676,0,Darkness,Lighting and conspicuity audit
+1061,358,777,Lambeth,A3036,51.497,-0.117,1.802,20,3.0,1,Cycle,Cycle separation and junction protection review
+1068,350,778,Southwark,A2214,51.461,-0.068,1.802,28,8.0,0,Cycle,Cycle separation and junction protection review
+1064,348,779,Lambeth,A215,51.452,-0.1,1.801,30,4.0,0,Cycle,Cycle separation and junction protection review
+1054,351,780,Wandsworth,Local road,51.466,-0.169,1.801,34,10.0,1,Junction,Junction layout and signal review
+1036,370,781,Brent,A404,51.553,-0.295,1.801,62,9.0,0,Pedestrian,Pedestrian crossing and speed review
+1052,356,782,Kensington and Chelsea,A3218,51.49,-0.183,1.8,24,4.0,0,Cycle,Cycle separation and junction protection review
+1052,365,783,Westminster,A5,51.529,-0.182,1.8,33,6.0,0,Cycle,Cycle separation and junction protection review
+1054,354,784,Wandsworth,A3220,51.479,-0.17,1.8,30,12.0,0,Cycle,Cycle separation and junction protection review
+1041,379,785,Barnet,A5,51.593,-0.259,1.799,32,5.0,0,Junction,Junction layout and signal review
+915,806,786,Doncaster,Local road,53.523,-1.13,1.799,28,6.0,0,Pedestrian,Pedestrian crossing and speed review
+871,672,787,Derby,A601,52.921,-1.47,1.799,21,6.307,0,Junction,Junction layout and signal review
+812,572,788,Birmingham,B4127,52.474,-1.91,1.798,29,7.0,0,Darkness,Lighting and conspicuity audit
+1058,373,789,Islington,A1,51.565,-0.135,1.797,39,0.0,0,Junction,Junction layout and signal review
+910,685,790,Nottingham,B682,52.98,-1.177,1.796,27,10.0,0,Cycle,Cycle separation and junction protection review
+770,509,791,Worcester,A38,52.192,-2.218,1.796,12,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1246,618,792,Norwich,A147,52.635,1.298,1.796,25,7.0,1,Pedestrian,Pedestrian crossing and speed review
+1024,352,793,Hounslow,A3006,51.473,-0.386,1.795,29,4.0,0,Junction,Junction layout and signal review
+1098,369,794,Barking and Dagenham,A1240,51.542,0.148,1.795,32,4.0,0,Pedestrian,Pedestrian crossing and speed review
+766,796,795,Manchester,A34,53.48,-2.253,1.794,15,6.0,0,Cycle,Cycle separation and junction protection review
+1058,365,796,Camden,A400,51.529,-0.139,1.793,20,6.0,0,Cycle,Cycle separation and junction protection review
+769,797,797,Manchester,A62,53.485,-2.232,1.792,23,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1060,377,798,Haringey,A103,51.582,-0.121,1.791,42,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1061,383,799,Enfield,A105,51.609,-0.111,1.79,27,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+1065,332,800,Croydon,A222,51.381,-0.093,1.789,23,4.0,0,Junction,Junction layout and signal review
+1061,370,801,Islington,A5203,51.551,-0.115,1.789,21,4.0,0,Cycle,Cycle separation and junction protection review
+814,578,802,Birmingham,A34,52.501,-1.896,1.789,29,9.0,1,Darkness,Lighting and conspicuity audit
+908,680,803,Nottingham,A6514,52.955,-1.192,1.789,35,6.0,1,Junction,Junction layout and signal review
+1064,333,804,Croydon,A222,51.384,-0.1,1.788,40,4.0,0,Junction,Junction layout and signal review
+1051,352,805,Hammersmith and Fulham,A217,51.472,-0.191,1.788,52,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+1062,329,806,Croydon,A23,51.366,-0.118,1.787,46,4.0,0,Junction,Junction layout and signal review
+911,685,807,Nottingham,B682,52.979,-1.171,1.786,30,9.0,0,Junction,Junction layout and signal review
+1062,334,808,Croydon,A235,51.389,-0.114,1.786,26,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+721,346,809,"Bristol, City of",A420,51.458,-2.566,1.785,27,4.028,0,Cycle,Cycle separation and junction protection review
+708,858,810,Preston,Local road,53.759,-2.695,1.784,23,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1052,384,811,Barnet,A1000,51.615,-0.177,1.78,34,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+1050,371,812,Camden,A41,51.556,-0.195,1.78,33,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+941,346,813,Reading,A329,51.454,-0.983,1.78,28,3.636,1,Cycle,Cycle separation and junction protection review
+767,793,814,Manchester,A5067,53.467,-2.247,1.779,17,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1057,328,815,Sutton,A237,51.362,-0.151,1.779,27,6.0,1,Junction,Junction layout and signal review
+919,607,816,Leicester,A6,52.627,-1.119,1.779,21,5.218,0,Cycle,Cycle separation and junction protection review
+1061,378,817,Haringey,A504,51.587,-0.114,1.778,29,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+1063,364,818,Islington,A5201,51.523,-0.103,1.777,24,6.0,0,Cycle,Cycle separation and junction protection review
+1070,391,819,Enfield,A1010,51.644,-0.047,1.776,31,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+639,938,820,Westmorland and Furness,A5087,54.113,-3.229,1.775,20,6.0,1,Pedestrian,Pedestrian crossing and speed review
+1053,339,821,Merton,A236,51.413,-0.179,1.775,27,5.0,0,Junction,Junction layout and signal review
+1061,817,822,North East Lincolnshire,A1098,53.559,-0.028,1.775,21,5.0,1,Pedestrian,Pedestrian crossing and speed review
+1040,380,823,Barnet,A5,51.598,-0.265,1.771,33,5.0,1,Junction,Junction layout and signal review
+1080,337,824,Bromley,B228,51.4,0.017,1.77,31,4.0,1,Pedestrian,Pedestrian crossing and speed review
+873,780,825,Unknown,A6102,53.408,-1.45,1.769,24,5.0,0,Pedestrian,Pedestrian crossing and speed review
+1063,379,826,Haringey,A105,51.591,-0.101,1.769,24,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+819,570,827,Birmingham,A45,52.465,-1.859,1.768,33,5.0,0,Darkness,Lighting and conspicuity audit
+831,869,828,Bradford,A6177,53.808,-1.762,1.768,18,7.0,0,Darkness,Lighting and conspicuity audit
+681,1110,829,Cumberland,A6,54.888,-2.926,1.768,19,8.0,0,Cycle,Cycle separation and junction protection review
+1232,488,830,Ipswich,A1022,52.055,1.153,1.766,24,10.0,0,Junction,Junction layout and signal review
+1064,352,831,Lambeth,A2217,51.47,-0.097,1.766,25,6.0,0,Cycle,Cycle separation and junction protection review
+1177,371,832,Southend-on-Sea,A13,51.54,0.718,1.766,13,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1086,376,833,Redbridge,A123,51.576,0.067,1.764,56,5.0,0,Darkness,Lighting and conspicuity audit
+1068,369,834,Hackney,A1207,51.546,-0.064,1.763,20,3.0,0,Cycle,Cycle separation and junction protection review
+1082,370,835,Newham,A118,51.548,0.036,1.761,31,4.0,0,Junction,Junction layout and signal review
+1046,363,836,Kensington and Chelsea,B412,51.52,-0.226,1.761,30,4.0,1,Junction,Junction layout and signal review
+1148,337,837,Medway,A2,51.39,0.503,1.759,21,8.0,0,Pedestrian,Pedestrian crossing and speed review
+1054,341,838,Merton,A24,51.423,-0.173,1.758,28,7.0,0,Cycle,Cycle separation and junction protection review
+1078,374,839,Waltham Forest,A11,51.568,0.01,1.757,25,6.0,1,Cycle,Cycle separation and junction protection review
+1111,346,840,Dartford,A282,51.437,0.239,1.757,29,6.0,1,Junction,Junction layout and signal review
+1032,354,841,Hounslow,B454,51.483,-0.327,1.755,30,6.0,0,Cycle,Cycle separation and junction protection review
+1059,355,842,Westminster,A3212,51.484,-0.135,1.752,30,3.0,0,Cycle,Cycle separation and junction protection review
+1054,343,843,Wandsworth,A217,51.43,-0.171,1.751,27,2.0,0,Junction,Junction layout and signal review
+1075,364,844,Tower Hamlets,B140,51.523,-0.017,1.751,38,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1052,274,845,Crawley,A23,51.122,-0.198,1.748,29,6.0,1,Motorcycle,Motorcycle route and junction visibility review
+1048,370,846,Camden,A5,51.552,-0.209,1.747,46,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+1048,364,847,Kensington and Chelsea,B450,51.525,-0.212,1.744,33,9.0,0,Cycle,Cycle separation and junction protection review
+651,1346,848,City of Edinburgh,A7,55.948,-3.189,1.743,13,4.0,1,Pedestrian,Pedestrian crossing and speed review
+1056,357,849,Westminster,A3217,51.493,-0.154,1.743,24,6.0,0,Cycle,Cycle separation and junction protection review
+767,865,850,Burnley,A679,53.791,-2.247,1.743,22,7.0,1,Pedestrian,Pedestrian crossing and speed review
+1063,331,851,Croydon,A236,51.375,-0.107,1.742,19,3.0,0,Darkness,Lighting and conspicuity audit
+1233,488,852,Ipswich,A1156,52.054,1.159,1.742,23,4.0,0,Junction,Junction layout and signal review
+751,857,853,Hyndburn,A679,53.755,-2.369,1.741,24,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1020,357,854,Hounslow,A312,51.498,-0.411,1.741,32,6.0,0,Darkness,Lighting and conspicuity audit
+1070,396,855,Enfield,A1010,51.667,-0.043,1.74,43,0.0,0,Motorcycle,Motorcycle route and junction visibility review
+942,347,856,Reading,A329,51.457,-0.976,1.74,26,3.547,0,Pedestrian,Pedestrian crossing and speed review
+1017,857,857,"Kingston upon Hull, City of",A1105,53.743,-0.353,1.74,35,11.0,0,Junction,Junction layout and signal review
+799,604,858,Walsall,A34,52.617,-2.005,1.739,25,5.0,0,Pedestrian,Pedestrian crossing and speed review
+837,866,859,Bradford,A6177,53.794,-1.718,1.738,23,7.0,0,Junction,Junction layout and signal review
+1069,354,860,Southwark,A2,51.479,-0.059,1.737,33,8.0,0,Cycle,Cycle separation and junction protection review
+1071,397,861,Enfield,A1010,51.671,-0.04,1.737,40,9.0,1,Junction,Junction layout and signal review
+1026,351,862,Hounslow,A3006,51.468,-0.37,1.737,22,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1062,365,863,Islington,A401,51.528,-0.109,1.736,35,1.0,0,Cycle,Cycle separation and junction protection review
+717,344,864,"Bristol, City of",A370,51.447,-2.595,1.735,17,7.264,0,Cycle,Cycle separation and junction protection review
+831,374,865,Swindon,A4311,51.584,-1.775,1.735,27,5.335,0,Junction,Junction layout and signal review
+946,346,866,Reading,A329,51.453,-0.948,1.734,28,7.813,0,Motorcycle,Motorcycle route and junction visibility review
+861,869,867,Leeds,A58,53.807,-1.535,1.73,23,4.0,0,Cycle,Cycle separation and junction protection review
+864,871,868,Leeds,A58,53.817,-1.514,1.727,18,3.0,0,Pedestrian,Pedestrian crossing and speed review
+518,1331,869,Glasgow City,A1,55.864,-4.252,1.726,17,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1070,368,870,Hackney,A106,51.541,-0.051,1.726,18,5.0,0,Cycle,Cycle separation and junction protection review
+1060,210,871,Brighton and Hove,B2120,50.832,-0.152,1.725,25,7.0,0,Junction,Junction layout and signal review
+769,796,872,Manchester,A665,53.481,-2.231,1.724,18,5.0,0,Junction,Junction layout and signal review
+1057,359,873,Westminster,A4,51.503,-0.149,1.723,25,5.0,0,Cycle,Cycle separation and junction protection review
+902,412,874,Oxford,A420,51.753,-1.258,1.721,28,4.682,0,Cycle,Cycle separation and junction protection review
+1057,818,875,North East Lincolnshire,Local road,53.565,-0.058,1.721,21,9.0,0,Darkness,Lighting and conspicuity audit
+719,347,876,"Bristol, City of",A4032,51.461,-2.582,1.717,27,4.063,0,Darkness,Lighting and conspicuity audit
+1067,371,877,Hackney,A10,51.555,-0.073,1.717,20,4.0,0,Cycle,Cycle separation and junction protection review
+518,1330,878,Glasgow City,Local road,55.86,-4.251,1.716,16,10.0,0,Pedestrian,Pedestrian crossing and speed review
+1082,348,879,Greenwich,A20,51.45,0.03,1.716,28,5.0,0,Darkness,Lighting and conspicuity audit
+1052,359,880,Westminster,A315,51.502,-0.183,1.716,27,6.0,0,Cycle,Cycle separation and junction protection review
+911,679,881,Nottingham,A6200,52.952,-1.172,1.716,18,5.0,0,Junction,Junction layout and signal review
+870,673,882,Derby,A601,52.927,-1.476,1.715,21,6.413,0,Cycle,Cycle separation and junction protection review
+1079,357,883,Greenwich,A102,51.491,0.01,1.715,38,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+1065,328,884,Croydon,B275,51.362,-0.095,1.715,33,4.0,0,Motorcycle,Motorcycle route and junction visibility review
+1026,368,885,Ealing,A312,51.547,-0.37,1.713,28,6.0,0,Junction,Junction layout and signal review
+869,667,886,Derby,A5111,52.901,-1.486,1.708,28,4.473,0,Junction,Junction layout and signal review
+1065,376,887,Haringey,A503,51.578,-0.084,1.708,35,4.0,0,Cycle,Cycle separation and junction protection review
+1055,341,888,Wandsworth,A217,51.421,-0.162,1.707,46,7.0,0,Motorcycle,Motorcycle route and junction visibility review
+1044,357,889,Hammersmith and Fulham,A315,51.493,-0.239,1.707,34,13.0,0,Cycle,Cycle separation and junction protection review
+1066,359,890,Southwark,A100,51.501,-0.08,1.705,30,4.0,0,Cycle,Cycle separation and junction protection review
+1093,371,891,Barking and Dagenham,A124,51.552,0.114,1.705,28,2.0,0,Junction,Junction layout and signal review
+1097,373,892,Barking and Dagenham,A124,51.56,0.147,1.705,32,4.0,0,Junction,Junction layout and signal review
+707,860,893,Preston,A6,53.766,-2.702,1.704,18,5.0,0,Darkness,Lighting and conspicuity audit
+1036,365,894,Ealing,A406,51.531,-0.295,1.704,49,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+717,349,895,"Bristol, City of",A38,51.47,-2.593,1.703,29,4.371,0,Cycle,Cycle separation and junction protection review
+1071,342,896,Lewisham,A212,51.426,-0.049,1.703,44,4.0,1,Motorcycle,Motorcycle route and junction visibility review
+829,832,897,Kirklees,A62,53.642,-1.779,1.699,14,3.0,0,Pedestrian,Pedestrian crossing and speed review
+868,772,898,Sheffield,A625,53.372,-1.486,1.698,17,6.0,0,Cycle,Cycle separation and junction protection review
+737,856,899,Blackburn with Darwen,A6078,53.75,-2.476,1.697,13,6.0,0,Darkness,Lighting and conspicuity audit
+663,885,900,Wyre,A587,53.877,-3.04,1.697,14,6.0,1,Pedestrian,Pedestrian crossing and speed review
+1074,362,901,Tower Hamlets,A13,51.513,-0.022,1.696,23,3.0,0,Cycle,Cycle separation and junction protection review
+1066,356,902,Southwark,A2,51.488,-0.082,1.695,30,6.0,0,Cycle,Cycle separation and junction protection review
+664,777,903,Wirral,A552,53.391,-3.02,1.695,18,6.214,0,Cycle,Cycle separation and junction protection review
+1058,351,904,Lambeth,B224,51.466,-0.142,1.694,26,5.0,0,Cycle,Cycle separation and junction protection review
+1039,373,905,Brent,A4088,51.566,-0.274,1.693,29,4.0,0,Junction,Junction layout and signal review
+918,612,906,Leicester,A607,52.65,-1.123,1.688,16,6.253,0,Pedestrian,Pedestrian crossing and speed review
+1044,350,907,Richmond upon Thames,A205,51.465,-0.243,1.688,32,9.0,0,Cycle,Cycle separation and junction protection review
+672,784,908,Liverpool,A580,53.423,-2.961,1.687,15,5.126,0,Pedestrian,Pedestrian crossing and speed review
+789,445,909,Cheltenham,A4019,51.904,-2.078,1.687,29,8.0,0,Cycle,Cycle separation and junction protection review
+663,869,910,Blackpool,B5261,53.804,-3.038,1.686,18,7.0,0,Cycle,Cycle separation and junction protection review
+815,182,911,"Bournemouth, Christchurch and Poole",A338,50.721,-1.891,1.686,28,8.246,0,Motorcycle,Motorcycle route and junction visibility review
+1021,348,912,Hounslow,A312,51.457,-0.409,1.684,33,8.0,0,Junction,Junction layout and signal review
+1046,358,913,Hammersmith and Fulham,A219,51.498,-0.225,1.683,34,8.0,0,Motorcycle,Motorcycle route and junction visibility review
+709,861,914,Preston,A6063,53.77,-2.689,1.682,21,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1067,384,915,Enfield,A406,51.614,-0.069,1.682,36,5.0,0,Junction,Junction layout and signal review
+811,575,916,Birmingham,A4540,52.488,-1.918,1.679,22,7.0,0,Darkness,Lighting and conspicuity audit
+1017,860,917,"Kingston upon Hull, City of",A1079,53.758,-0.35,1.679,22,6.0,0,Junction,Junction layout and signal review
+788,580,918,Dudley,B4587,52.51,-2.085,1.679,28,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1068,379,919,Haringey,A1055,51.59,-0.063,1.678,35,5.0,0,Motorcycle,Motorcycle route and junction visibility review
+1074,363,920,Tower Hamlets,B140,51.518,-0.023,1.678,31,3.0,0,Junction,Junction layout and signal review
+1017,441,921,Luton,B4540,51.875,-0.42,1.677,26,6.0,0,Junction,Junction layout and signal review
+1066,353,922,Southwark,A202,51.474,-0.082,1.675,24,6.0,0,Cycle,Cycle separation and junction protection review
+1026,365,923,Ealing,B455,51.532,-0.37,1.672,37,5.0,0,Cycle,Cycle separation and junction protection review
+1123,198,924,Eastbourne,A259,50.77,0.293,1.671,21,6.0,0,Pedestrian,Pedestrian crossing and speed review
+814,576,925,Birmingham,A34,52.492,-1.895,1.67,19,3.0,0,Junction,Junction layout and signal review
+1228,316,926,Canterbury,A290,51.283,1.072,1.669,24,6.0,0,Pedestrian,Pedestrian crossing and speed review
+930,202,927,Portsmouth,A2047,50.807,-1.076,1.668,31,3.664,0,Junction,Junction layout and signal review
+1032,360,928,Ealing,A4020,51.51,-0.326,1.668,21,4.0,0,Junction,Junction layout and signal review
+918,611,929,Leicester,A607,52.646,-1.126,1.667,18,4.095,0,Darkness,Lighting and conspicuity audit
+1066,369,930,Hackney,A104,51.546,-0.079,1.665,35,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+1059,352,931,Lambeth,A3036,51.47,-0.134,1.664,26,4.0,0,Cycle,Cycle separation and junction protection review
+1041,370,932,Brent,A406,51.552,-0.26,1.664,37,5.0,0,Darkness,Lighting and conspicuity audit
+1067,368,933,Hackney,A10,51.542,-0.073,1.664,23,5.0,0,Cycle,Cycle separation and junction protection review
+1067,341,934,Bromley,A214,51.42,-0.078,1.663,29,3.0,0,Pedestrian,Pedestrian crossing and speed review
+913,676,935,Nottingham,A453,52.939,-1.157,1.662,14,5.0,0,Cycle,Cycle separation and junction protection review
+736,856,936,Blackburn with Darwen,A6078,53.75,-2.483,1.662,16,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1012,445,937,Luton,A505,51.892,-0.457,1.662,26,8.0,0,Darkness,Lighting and conspicuity audit
+707,858,938,Preston,A59,53.758,-2.704,1.662,19,4.0,0,Pedestrian,Pedestrian crossing and speed review
+812,576,939,Birmingham,A4540,52.492,-1.91,1.661,26,6.0,2,Darkness,Lighting and conspicuity audit
+1059,343,940,Lambeth,A214,51.429,-0.134,1.661,16,6.0,1,Junction,Junction layout and signal review
+1059,340,941,Lambeth,B272,51.417,-0.136,1.66,29,6.0,0,Junction,Junction layout and signal review
+866,559,942,Coventry,A4053,52.414,-1.512,1.66,18,5.0,0,Pedestrian,Pedestrian crossing and speed review
+1090,366,943,Barking and Dagenham,A13,51.53,0.093,1.659,41,5.0,0,Darkness,Lighting and conspicuity audit
+716,346,944,"Bristol, City of",A4018,51.456,-2.602,1.659,15,6.41,0,Darkness,Lighting and conspicuity audit
+1068,351,945,Southwark,A2215,51.465,-0.067,1.658,21,3.0,0,Cycle,Cycle separation and junction protection review
+1058,819,946,North East Lincolnshire,A180,53.569,-0.049,1.658,20,6.0,0,Cycle,Cycle separation and junction protection review
+831,861,947,Bradford,A641,53.773,-1.762,1.657,23,7.0,1,Darkness,Lighting and conspicuity audit
+649,1347,948,City of Edinburgh,A8,55.951,-3.206,1.657,21,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1069,388,949,Enfield,A1010,51.631,-0.055,1.656,39,6.0,0,Motorcycle,Motorcycle route and junction visibility review
+1058,209,950,Brighton and Hove,B2066,50.828,-0.167,1.655,20,7.0,0,Cycle,Cycle separation and junction protection review
+1064,207,951,Brighton and Hove,B2066,50.819,-0.124,1.655,26,8.0,0,Pedestrian,Pedestrian crossing and speed review
+994,741,952,Lincoln,B1003,53.225,-0.544,1.654,24,7.286,0,Junction,Junction layout and signal review
+881,225,953,Southampton ,A3057,50.913,-1.423,1.653,27,4.653,0,Junction,Junction layout and signal review
+861,870,954,Leeds,A58,53.812,-1.535,1.651,23,5.0,1,Cycle,Cycle separation and junction protection review
+811,882,955,Bradford,B6143,53.867,-1.913,1.651,25,7.0,0,Junction,Junction layout and signal review
+1037,365,956,Ealing,A406,51.531,-0.292,1.65,35,6.0,0,Darkness,Lighting and conspicuity audit
+871,671,957,Derby,A601,52.917,-1.471,1.65,20,6.107,1,Junction,Junction layout and signal review
+1088,373,958,Redbridge,A118,51.56,0.08,1.649,42,4.0,0,Darkness,Lighting and conspicuity audit
+860,862,959,Leeds,A653,53.776,-1.544,1.648,24,8.0,0,Junction,Junction layout and signal review
+923,610,960,Leicester,A47,52.642,-1.089,1.648,17,4.075,0,Pedestrian,Pedestrian crossing and speed review
+1045,374,961,Barnet,A406,51.571,-0.231,1.647,60,4.0,0,Darkness,Lighting and conspicuity audit
+1141,412,962,Chelmsford,A1060,51.73,0.472,1.646,16,5.0,0,Pedestrian,Pedestrian crossing and speed review
+830,862,963,Bradford,A6177,53.777,-1.771,1.645,25,8.0,1,Junction,Junction layout and signal review
+1054,817,964,North East Lincolnshire,B1212,53.559,-0.08,1.645,20,5.0,0,Junction,Junction layout and signal review
+1063,332,965,Croydon,A235,51.38,-0.108,1.644,30,3.0,0,Motorcycle,Motorcycle route and junction visibility review
+850,1129,966,Newcastle upon Tyne,A167,54.976,-1.607,1.644,35,10.0,0,Junction,Junction layout and signal review
+769,794,967,Manchester,A34,53.472,-2.232,1.643,18,3.0,0,Cycle,Cycle separation and junction protection review
+972,209,968,Chichester,A286,50.836,-0.775,1.643,19,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1067,360,969,Southwark,A100,51.505,-0.076,1.641,24,6.0,0,Cycle,Cycle separation and junction protection review
+671,786,970,Liverpool,A580,53.433,-2.968,1.641,12,4.97,0,Pedestrian,Pedestrian crossing and speed review
+662,873,971,Blackpool,A586,53.822,-3.047,1.641,19,6.0,0,Pedestrian,Pedestrian crossing and speed review
+824,576,972,Birmingham,A4040,52.493,-1.82,1.64,22,6.0,0,Pedestrian,Pedestrian crossing and speed review
+814,574,973,Birmingham,B4114,52.483,-1.894,1.64,18,6.0,0,Pedestrian,Pedestrian crossing and speed review
+1069,368,974,Hackney,A107,51.54,-0.056,1.639,28,3.0,0,Cycle,Cycle separation and junction protection review
+916,608,975,Leicester,A594,52.633,-1.14,1.639,16,5.098,0,Pedestrian,Pedestrian crossing and speed review
+1091,515,976,Cambridge,A1307,52.198,0.129,1.639,19,3.0,0,Cycle,Cycle separation and junction protection review
+710,860,977,Preston,B6243,53.766,-2.681,1.638,23,7.0,1,Junction,Junction layout and signal review
+1065,330,978,Croydon,A232,51.371,-0.096,1.638,26,4.0,0,Darkness,Lighting and conspicuity audit
+814,570,979,Birmingham,A4540,52.465,-1.895,1.636,26,5.0,0,Darkness,Lighting and conspicuity audit
+1017,443,980,Luton,A6,51.883,-0.422,1.634,44,4.0,0,Darkness,Lighting and conspicuity audit
+1028,864,981,"Kingston upon Hull, City of",A165,53.774,-0.268,1.634,23,10.0,0,Cycle,Cycle separation and junction protection review
+812,574,982,Birmingham,A4400,52.482,-1.909,1.633,18,5.0,0,Darkness,Lighting and conspicuity audit
+1049,341,983,Merton,A219,51.421,-0.208,1.633,26,9.0,0,Junction,Junction layout and signal review
+1063,346,984,Lambeth,A205,51.441,-0.107,1.632,26,6.0,0,Junction,Junction layout and signal review
+998,299,985,Guildford,A322,51.237,-0.578,1.632,25,7.0,0,Pedestrian,Pedestrian crossing and speed review
+1016,855,986,"Kingston upon Hull, City of",A63,53.736,-0.359,1.632,32,10.0,1,Cycle,Cycle separation and junction protection review
+853,866,987,Leeds,B6154,53.795,-1.595,1.631,22,10.0,0,Darkness,Lighting and conspicuity audit
+998,300,988,Guildford,A322,51.243,-0.577,1.63,15,5.0,0,Pedestrian,Pedestrian crossing and speed review
+1056,345,989,Wandsworth,A24,51.439,-0.156,1.629,34,1.0,0,Cycle,Cycle separation and junction protection review
+1058,359,990,Westminster,A3214,51.502,-0.14,1.628,32,8.0,0,Cycle,Cycle separation and junction protection review
+1070,384,991,Enfield,A406,51.613,-0.048,1.627,36,10.0,4,Darkness,Lighting and conspicuity audit
+829,875,992,Bradford,A657,53.835,-1.778,1.626,25,5.0,0,Pedestrian,Pedestrian crossing and speed review
+916,680,993,Nottingham,B686,52.955,-1.135,1.626,21,3.0,1,Pedestrian,Pedestrian crossing and speed review
+803,577,994,Sandwell,B4169,52.498,-1.974,1.625,19,3.0,1,Pedestrian,Pedestrian crossing and speed review
+1064,345,995,Lambeth,A205,51.44,-0.098,1.624,25,6.0,0,Cycle,Cycle separation and junction protection review
+1058,349,996,Lambeth,A24,51.457,-0.142,1.623,22,7.0,0,Cycle,Cycle separation and junction protection review
+1062,368,997,Islington,B515,51.542,-0.108,1.623,30,8.0,0,Cycle,Cycle separation and junction protection review
+1090,515,998,Cambridge,A603,52.198,0.123,1.623,20,6.0,0,Cycle,Cycle separation and junction protection review
+859,861,999,Leeds,A653,53.772,-1.55,1.622,25,8.0,0,Junction,Junction layout and signal review
+870,668,1000,Derby,Local road,52.905,-1.477,1.621,22,7.3,0,Junction,Junction layout and signal review

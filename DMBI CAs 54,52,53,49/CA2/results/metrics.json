@@ -1,0 +1,1099 @@
+{
+  "versions": {
+    "pandas": "3.1.0",
+    "scikit_learn": "1.9.1"
+  },
+  "data": {
+    "collisions": 513801,
+    "vehicles": 937265,
+    "casualties": 652821,
+    "collision_columns": 44,
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "killed": 8033,
+    "seriously_injured": 129011
+  },
+  "audit": {
+    "special_conditions_missing_2025": 86.5,
+    "junction_historic_missing_2025": 86.6,
+    "junction_control_missing_2021": 41.6
+  },
+  "reporting": {
+    "injury_based_by_year": {
+      "2021": 49.6,
+      "2022": 52.6,
+      "2023": 53.7,
+      "2024": 58.8,
+      "2025": 86.5
+    },
+    "raw_share_by_year": {
+      "2021": 22.51,
+      "2022": 23.52,
+      "2023": 23.94,
+      "2024": 24.84,
+      "2025": 26.24
+    },
+    "adj_share_by_year": {
+      "2021": 23.87,
+      "2022": 24.74,
+      "2023": 25.1,
+      "2024": 25.95,
+      "2025": 26.79
+    },
+    "collisions_by_year": {
+      "2021": 101087,
+      "2022": 106004,
+      "2023": 104258,
+      "2024": 100927,
+      "2025": 101525
+    },
+    "adj_ksi_by_year": {
+      "2021": 24132,
+      "2022": 26229,
+      "2023": 26166,
+      "2024": 26195,
+      "2025": 27196
+    },
+    "fatal_by_year": {
+      "2021": 1474,
+      "2022": 1602,
+      "2023": 1522,
+      "2024": 1502,
+      "2025": 1453
+    },
+    "forces": 44,
+    "forces_changed": 15
+  },
+  "prep": {
+    "rows_start": 513801,
+    "dropped_no_location": 53,
+    "dropped_no_speed": 3,
+    "rows_final": 513745,
+    "rows_injury_based": 309041,
+    "ksi_rate_injury_based": 27.45,
+    "adj_ksi_total": 129898,
+    "train_rows": 221193,
+    "test_rows": 87848
+  },
+  "eda": {
+    "peak_count_day": "Fri",
+    "peak_count_hour": 15,
+    "peak_count_value": 357,
+    "peak_rate_day": "Mon",
+    "peak_rate_hour": 4,
+    "peak_rate_value": 45.6,
+    "rate_min": 19.8,
+    "base_rate": 27.45,
+    "speed_rate": {
+      "20 mph": 25.0,
+      "30 mph": 25.4,
+      "40 mph": 28.3,
+      "50 mph": 30.2,
+      "60 mph": 37.1,
+      "70 mph": 25.5
+    },
+    "light_rate": {
+      "Dark, lighting unknown": 23.2,
+      "Dark, lights unlit": 31.2,
+      "Dark, lit": 29.0,
+      "Dark, no lighting": 36.9,
+      "Daylight": 26.3
+    },
+    "user_rate": {
+      "Cycle involved": 29.3,
+      "Motorcycle involved": 43.6,
+      "Multi vehicle": 19.0,
+      "Pedestrian hit": 34.1,
+      "Single vehicle": 30.8
+    },
+    "road_rate": {
+      "Dual carriageway": 24.8,
+      "One way": 21.4,
+      "Roundabout": 19.9,
+      "Single carriageway": 29.1,
+      "Slip road": 20.0
+    },
+    "user_share": {
+      "Multi vehicle": 45.8,
+      "Pedestrian hit": 18.1,
+      "Motorcycle involved": 12.9,
+      "Cycle involved": 12.7,
+      "Single vehicle": 10.5
+    }
+  },
+  "hotspots": {
+    "ksi_points": 124459,
+    "eps": 100,
+    "min_samples": 6,
+    "count": 804,
+    "clustered_pct": 6.11,
+    "noise_pct": 93.89,
+    "median_span_m": 173,
+    "max_span_m": 982,
+    "median_size": 7,
+    "largest_size": 68,
+    "pattern_counts": {
+      "Cycle": 295,
+      "Pedestrian": 216,
+      "Junction": 104,
+      "Motorcycle": 98,
+      "Darkness": 56,
+      "High speed": 35
+    },
+    "top5": [
+      {
+        "rank": 1,
+        "authority": "Lambeth",
+        "road": "A23",
+        "ksi": 68,
+        "fatal": 5,
+        "span": 885,
+        "pattern": "Cycle"
+      },
+      {
+        "rank": 2,
+        "authority": "Westminster",
+        "road": "A40",
+        "ksi": 63,
+        "fatal": 1,
+        "span": 909,
+        "pattern": "Cycle"
+      },
+      {
+        "rank": 3,
+        "authority": "Lambeth",
+        "road": "A3",
+        "ksi": 57,
+        "fatal": 2,
+        "span": 831,
+        "pattern": "Cycle"
+      },
+      {
+        "rank": 4,
+        "authority": "Hackney",
+        "road": "A1202",
+        "ksi": 57,
+        "fatal": 1,
+        "span": 982,
+        "pattern": "Cycle"
+      },
+      {
+        "rank": 5,
+        "authority": "Westminster",
+        "road": "A4",
+        "ksi": 54,
+        "fatal": 1,
+        "span": 832,
+        "pattern": "Cycle"
+      }
+    ],
+    "top_authorities": {
+      "Westminster": 40,
+      "Lambeth": 35,
+      "Southwark": 35,
+      "Tower Hamlets": 28,
+      "Wandsworth": 28,
+      "Kensington and Chelsea": 26,
+      "Hackney": 23,
+      "Birmingham": 23
+    },
+    "grid": [
+      {
+        "eps": 100,
+        "min_samples": 6,
+        "clusters": 804,
+        "clustered_pct": 6.11,
+        "largest": 68,
+        "max_span_m": 982,
+        "p95_span_m": 418
+      },
+      {
+        "eps": 100,
+        "min_samples": 8,
+        "clusters": 320,
+        "clustered_pct": 3.13,
+        "largest": 54,
+        "max_span_m": 853,
+        "p95_span_m": 424
+      },
+      {
+        "eps": 100,
+        "min_samples": 10,
+        "clusters": 143,
+        "clustered_pct": 1.68,
+        "largest": 53,
+        "max_span_m": 678,
+        "p95_span_m": 408
+      },
+      {
+        "eps": 100,
+        "min_samples": 12,
+        "clusters": 61,
+        "clustered_pct": 0.86,
+        "largest": 48,
+        "max_span_m": 589,
+        "p95_span_m": 407
+      },
+      {
+        "eps": 150,
+        "min_samples": 6,
+        "clusters": 1320,
+        "clustered_pct": 12.02,
+        "largest": 345,
+        "max_span_m": 3167,
+        "p95_span_m": 775
+      },
+      {
+        "eps": 150,
+        "min_samples": 8,
+        "clusters": 584,
+        "clustered_pct": 7.07,
+        "largest": 216,
+        "max_span_m": 2600,
+        "p95_span_m": 840
+      },
+      {
+        "eps": 150,
+        "min_samples": 10,
+        "clusters": 304,
+        "clustered_pct": 4.51,
+        "largest": 132,
+        "max_span_m": 1433,
+        "p95_span_m": 905
+      },
+      {
+        "eps": 150,
+        "min_samples": 12,
+        "clusters": 189,
+        "clustered_pct": 3.12,
+        "largest": 130,
+        "max_span_m": 1426,
+        "p95_span_m": 834
+      },
+      {
+        "eps": 200,
+        "min_samples": 6,
+        "clusters": 1728,
+        "clustered_pct": 18.72,
+        "largest": 1807,
+        "max_span_m": 13038,
+        "p95_span_m": 1107
+      },
+      {
+        "eps": 200,
+        "min_samples": 8,
+        "clusters": 852,
+        "clustered_pct": 12.15,
+        "largest": 790,
+        "max_span_m": 5909,
+        "p95_span_m": 1291
+      },
+      {
+        "eps": 200,
+        "min_samples": 10,
+        "clusters": 461,
+        "clustered_pct": 8.21,
+        "largest": 694,
+        "max_span_m": 5350,
+        "p95_span_m": 1385
+      },
+      {
+        "eps": 200,
+        "min_samples": 12,
+        "clusters": 267,
+        "clustered_pct": 5.76,
+        "largest": 409,
+        "max_span_m": 3841,
+        "p95_span_m": 1286
+      },
+      {
+        "eps": 250,
+        "min_samples": 6,
+        "clusters": 2017,
+        "clustered_pct": 25.39,
+        "largest": 6200,
+        "max_span_m": 27963,
+        "p95_span_m": 1399
+      },
+      {
+        "eps": 250,
+        "min_samples": 8,
+        "clusters": 1039,
+        "clustered_pct": 17.8,
+        "largest": 4802,
+        "max_span_m": 21491,
+        "p95_span_m": 1573
+      },
+      {
+        "eps": 250,
+        "min_samples": 10,
+        "clusters": 609,
+        "clustered_pct": 12.82,
+        "largest": 2250,
+        "max_span_m": 14167,
+        "p95_span_m": 1936
+      },
+      {
+        "eps": 250,
+        "min_samples": 12,
+        "clusters": 394,
+        "clustered_pct": 9.67,
+        "largest": 1988,
+        "max_span_m": 12939,
+        "p95_span_m": 1961
+      }
+    ]
+  },
+  "persistence": {
+    "past_hotspots": 476,
+    "member_points": 4155,
+    "future_ksi": 26645,
+    "hot_cover_pct": 3.16,
+    "random_cover_pct": 2.37,
+    "random_sd": 0.064,
+    "cover_ratio": 1.34,
+    "hot_area_km2": 35.1,
+    "random_area_km2": 126.0,
+    "hot_density": 23.97,
+    "random_density": 5.0,
+    "density_ratio": 4.79
+  },
+  "rules": {
+    "transactions": 221193,
+    "items": 63,
+    "frequent_itemsets": 20684,
+    "ksi_rules_raw": 1657,
+    "strong": 579,
+    "kept": 109,
+    "stable": 107,
+    "stable_pct": 98.2,
+    "seconds": 22.2,
+    "base_train": 27.64,
+    "base_test": 27.0,
+    "lift_corr": 0.946,
+    "median_lift_shrink_pct": 0.9,
+    "bonferroni_pass": 109,
+    "top": [
+      {
+        "rule": "Left the road + Motorcycle involved",
+        "support": 1.35,
+        "confidence": 66.7,
+        "lift": 2.41,
+        "test_confidence": 59.1,
+        "test_lift": 2.19
+      },
+      {
+        "rule": "Motorcycle involved + Speed: 60 mph",
+        "support": 1.46,
+        "confidence": 63.7,
+        "lift": 2.31,
+        "test_confidence": 59.0,
+        "test_lift": 2.18
+      },
+      {
+        "rule": "Area: Rural + Day: Weekend + Motorcycle involved",
+        "support": 1.04,
+        "confidence": 60.2,
+        "lift": 2.18,
+        "test_confidence": 58.6,
+        "test_lift": 2.17
+      },
+      {
+        "rule": "Motorcycle involved + Single vehicle + Surface: Dry",
+        "support": 1.08,
+        "confidence": 60.1,
+        "lift": 2.17,
+        "test_confidence": 52.6,
+        "test_lift": 1.95
+      },
+      {
+        "rule": "Area: Rural + Layout: Single carriageway + Motorcycle involved",
+        "support": 2.35,
+        "confidence": 58.5,
+        "lift": 2.12,
+        "test_confidence": 56.0,
+        "test_lift": 2.07
+      },
+      {
+        "rule": "Motorcycle involved + Single vehicle",
+        "support": 1.44,
+        "confidence": 56.8,
+        "lift": 2.05,
+        "test_confidence": 50.3,
+        "test_lift": 1.86
+      },
+      {
+        "rule": "Area: Rural + Motorcycle involved",
+        "support": 2.93,
+        "confidence": 55.3,
+        "lift": 2.0,
+        "test_confidence": 53.6,
+        "test_lift": 1.99
+      },
+      {
+        "rule": "Day: Weekend + Junction: Not at junction + Motorcycle involved",
+        "support": 1.04,
+        "confidence": 54.1,
+        "lift": 1.96,
+        "test_confidence": 51.6,
+        "test_lift": 1.91
+      },
+      {
+        "rule": "Motorcycle involved + Overturned",
+        "support": 1.13,
+        "confidence": 52.2,
+        "lift": 1.89,
+        "test_confidence": 49.3,
+        "test_lift": 1.83
+      },
+      {
+        "rule": "Day: Weekend + Motorcycle involved",
+        "support": 1.79,
+        "confidence": 50.9,
+        "lift": 1.84,
+        "test_confidence": 42.3,
+        "test_lift": 1.57
+      },
+      {
+        "rule": "Junction: Not at junction + Layout: Single carriageway + Motorcycle involved",
+        "support": 2.32,
+        "confidence": 50.8,
+        "lift": 1.84,
+        "test_confidence": 47.3,
+        "test_lift": 1.75
+      },
+      {
+        "rule": "Layout: Single carriageway + Motorcycle involved + Road: A road",
+        "support": 1.84,
+        "confidence": 50.0,
+        "lift": 1.81,
+        "test_confidence": 41.0,
+        "test_lift": 1.52
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Motorcycle",
+        "rule": "Left the road + Motorcycle involved",
+        "support": 1.35,
+        "confidence": 66.7,
+        "lift": 2.41,
+        "test_confidence": 59.1,
+        "test_lift": 2.19,
+        "test_n": 2032
+      },
+      {
+        "theme": "Rural, 60 mph",
+        "rule": "Left the road + Speed: 60 mph + Surface: Dry",
+        "support": 1.68,
+        "confidence": 46.0,
+        "lift": 1.66,
+        "test_confidence": 44.2,
+        "test_lift": 1.64,
+        "test_n": 2710
+      },
+      {
+        "theme": "Overturned",
+        "rule": "Left the road + Overturned + Surface: Dry",
+        "support": 1.11,
+        "confidence": 44.2,
+        "lift": 1.6,
+        "test_confidence": 40.8,
+        "test_lift": 1.51,
+        "test_n": 2002
+      },
+      {
+        "theme": "Pedestrian",
+        "rule": "Light: Dark, lit + Pedestrian hit",
+        "support": 1.72,
+        "confidence": 42.7,
+        "lift": 1.55,
+        "test_confidence": 38.5,
+        "test_lift": 1.43,
+        "test_n": 3970
+      },
+      {
+        "theme": "No street lighting",
+        "rule": "Layout: Single carriageway + Left the road + Light: Dark, no lighting",
+        "support": 1.06,
+        "confidence": 40.2,
+        "lift": 1.45,
+        "test_confidence": 38.8,
+        "test_lift": 1.44,
+        "test_n": 2091
+      },
+      {
+        "theme": "Fixed object",
+        "rule": "Hit tree or pole",
+        "support": 1.25,
+        "confidence": 39.6,
+        "lift": 1.43,
+        "test_confidence": 38.3,
+        "test_lift": 1.42,
+        "test_n": 2494
+      },
+      {
+        "theme": "Cycle",
+        "rule": "Area: Rural + Cycle involved",
+        "support": 1.06,
+        "confidence": 39.3,
+        "lift": 1.42,
+        "test_confidence": 39.8,
+        "test_lift": 1.47,
+        "test_n": 2005
+      },
+      {
+        "theme": "Older driver",
+        "rule": "Area: Rural + Driver 70 or over",
+        "support": 1.97,
+        "confidence": 36.7,
+        "lift": 1.33,
+        "test_confidence": 37.6,
+        "test_lift": 1.39,
+        "test_n": 4220
+      }
+    ],
+    "interaction": {
+      "Pedestrian hit": {
+        "20 mph": 30.8,
+        "30 mph": 33.2,
+        "40 mph": 45.5,
+        "50 mph": 55.7,
+        "60 mph": 51.1,
+        "70 mph": 75.9
+      },
+      "Motorcycle involved": {
+        "20 mph": 27.4,
+        "30 mph": 38.3,
+        "40 mph": 46.6,
+        "50 mph": 52.5,
+        "60 mph": 62.5,
+        "70 mph": 53.3
+      },
+      "Cycle involved": {
+        "20 mph": 25.5,
+        "30 mph": 27.9,
+        "40 mph": 35.5,
+        "50 mph": 39.7,
+        "60 mph": 48.3,
+        "70 mph": null
+      },
+      "Single vehicle": {
+        "20 mph": 27.7,
+        "30 mph": 29.6,
+        "40 mph": 31.2,
+        "50 mph": 30.4,
+        "60 mph": 32.8,
+        "70 mph": 29.4
+      },
+      "Multi vehicle": {
+        "20 mph": 14.9,
+        "30 mph": 15.8,
+        "40 mph": 19.2,
+        "50 mph": 22.6,
+        "60 mph": 29.2,
+        "70 mph": 19.8
+      }
+    }
+  },
+  "kmodes": {
+    "k": 6,
+    "sample": 20000,
+    "costs": {
+      "2": 41951,
+      "3": 37664,
+      "4": 36449,
+      "5": 36366,
+      "6": 34064,
+      "7": 30791,
+      "8": 30796,
+      "9": 30375,
+      "10": 28742
+    },
+    "profile": [
+      {
+        "segment": 1,
+        "collisions": 69697,
+        "share_pct": 31.5,
+        "ksi_pct": 23.9,
+        "road_user": "Multi vehicle",
+        "road_class": "Unclassified",
+        "light": "Daylight",
+        "junction": "T junction",
+        "area": "Urban",
+        "speed_band": "30 mph"
+      },
+      {
+        "segment": 2,
+        "collisions": 63039,
+        "share_pct": 28.5,
+        "ksi_pct": 29.7,
+        "road_user": "Multi vehicle",
+        "road_class": "A road",
+        "light": "Daylight",
+        "junction": "Not at junction",
+        "area": "Rural",
+        "speed_band": "60 mph"
+      },
+      {
+        "segment": 3,
+        "collisions": 10157,
+        "share_pct": 4.6,
+        "ksi_pct": 38.6,
+        "road_user": "Single vehicle",
+        "road_class": "A road",
+        "light": "Dark, no lighting",
+        "junction": "Not at junction",
+        "area": "Rural",
+        "speed_band": "60 mph"
+      },
+      {
+        "segment": 4,
+        "collisions": 33708,
+        "share_pct": 15.2,
+        "ksi_pct": 31.3,
+        "road_user": "Motorcycle involved",
+        "road_class": "A road",
+        "light": "Daylight",
+        "junction": "Not at junction",
+        "area": "Urban",
+        "speed_band": "30 mph"
+      },
+      {
+        "segment": 5,
+        "collisions": 27124,
+        "share_pct": 12.3,
+        "ksi_pct": 30.8,
+        "road_user": "Pedestrian hit",
+        "road_class": "Unclassified",
+        "light": "Daylight",
+        "junction": "Not at junction",
+        "area": "Urban",
+        "speed_band": "30 mph"
+      },
+      {
+        "segment": 6,
+        "collisions": 17468,
+        "share_pct": 7.9,
+        "ksi_pct": 16.7,
+        "road_user": "Multi vehicle",
+        "road_class": "Unclassified",
+        "light": "Daylight",
+        "junction": "Not at junction",
+        "area": "Urban",
+        "speed_band": "30 mph"
+      }
+    ],
+    "hidden": [
+      {
+        "segment": 1,
+        "rules": 28,
+        "hidden": 3,
+        "hidden_holds_2025": 3,
+        "example": "Road: Unclassified + Single vehicle",
+        "example_lift": 1.37,
+        "example_conf": 32.7
+      },
+      {
+        "segment": 2,
+        "rules": 78,
+        "hidden": 16,
+        "hidden_holds_2025": 16,
+        "example": "Day: Weekend + Layout: Single carriageway",
+        "example_lift": 1.36,
+        "example_conf": 40.6
+      },
+      {
+        "segment": 3,
+        "rules": 17,
+        "hidden": 5,
+        "hidden_holds_2025": 5,
+        "example": "Light: Dark, no lighting + Pedestrian hit",
+        "example_lift": 1.78,
+        "example_conf": 68.9
+      },
+      {
+        "segment": 4,
+        "rules": 69,
+        "hidden": 17,
+        "hidden_holds_2025": 14,
+        "example": "Road: Unclassified + Weather: Fine",
+        "example_lift": 1.39,
+        "example_conf": 43.4
+      },
+      {
+        "segment": 5,
+        "rules": 13,
+        "hidden": 9,
+        "hidden_holds_2025": 9,
+        "example": "Light: Dark, lit + Surface: Wet",
+        "example_lift": 1.26,
+        "example_conf": 39.0
+      },
+      {
+        "segment": 6,
+        "rules": 13,
+        "hidden": 10,
+        "hidden_holds_2025": 8,
+        "example": "Area: Urban + Left the road",
+        "example_lift": 1.65,
+        "example_conf": 27.5
+      }
+    ],
+    "hidden_total": 60,
+    "hidden_holds_2025": 55,
+    "segment_rules_total": 218,
+    "segment_ksi_min": 16.7,
+    "segment_ksi_max": 38.6
+  },
+  "severity": {
+    "train_rows": 221193,
+    "test_rows": 87848,
+    "test_ksi_pct": 27.0,
+    "best": "Random Forest",
+    "majority_accuracy": 0.73,
+    "chance_pr_auc": 0.27,
+    "scores": [
+      {
+        "model": "Random Forest",
+        "accuracy": 0.5685,
+        "balanced_accuracy": 0.6236,
+        "precision": 0.3566,
+        "recall": 0.7435,
+        "f1": 0.482,
+        "roc_auc": 0.6791,
+        "pr_auc": 0.4399,
+        "threshold": 0.4561,
+        "tn": 32303,
+        "fp": 31825,
+        "fn": 6083,
+        "tp": 17637
+      },
+      {
+        "model": "AdaBoost",
+        "accuracy": 0.5688,
+        "balanced_accuracy": 0.6175,
+        "precision": 0.354,
+        "recall": 0.7234,
+        "f1": 0.4753,
+        "roc_auc": 0.6696,
+        "pr_auc": 0.4257,
+        "threshold": 0.3316,
+        "tn": 32814,
+        "fp": 31314,
+        "fn": 6562,
+        "tp": 17158
+      },
+      {
+        "model": "Decision Tree",
+        "accuracy": 0.5473,
+        "balanced_accuracy": 0.6132,
+        "precision": 0.3455,
+        "recall": 0.7564,
+        "f1": 0.4743,
+        "roc_auc": 0.6653,
+        "pr_auc": 0.422,
+        "threshold": 0.4427,
+        "tn": 30141,
+        "fp": 33987,
+        "fn": 5778,
+        "tp": 17942
+      },
+      {
+        "model": "Naive Bayes",
+        "accuracy": 0.5445,
+        "balanced_accuracy": 0.5989,
+        "precision": 0.3381,
+        "recall": 0.7171,
+        "f1": 0.4595,
+        "roc_auc": 0.6383,
+        "pr_auc": 0.3763,
+        "threshold": 0.1808,
+        "tn": 30824,
+        "fp": 33304,
+        "fn": 6710,
+        "tp": 17010
+      }
+    ],
+    "roc_ci": [
+      0.6749,
+      0.6822
+    ],
+    "pr_ci": [
+      0.4335,
+      0.4456
+    ],
+    "params": {
+      "Naive Bayes": "{'alpha': 0.5}",
+      "Decision Tree": "{'max_depth': 10, 'min_samples_leaf': 100}",
+      "Random Forest": "{'max_depth': 18, 'min_samples_leaf': 25, 'n_estimators': 200}",
+      "AdaBoost": "{'n_estimators': 200}"
+    },
+    "ablation": [
+      {
+        "features": "Road context only",
+        "roc_auc": 0.591,
+        "pr_auc": 0.3462
+      },
+      {
+        "features": "People and vehicles only",
+        "roc_auc": 0.6437,
+        "pr_auc": 0.3972
+      },
+      {
+        "features": "Crash mechanics only",
+        "roc_auc": 0.5589,
+        "pr_auc": 0.3097
+      },
+      {
+        "features": "All features",
+        "roc_auc": 0.6791,
+        "pr_auc": 0.4399
+      }
+    ],
+    "importance": {
+      "Motorcycle involved": 0.0725,
+      "Pedestrian hit": 0.0163,
+      "Cycle involved": 0.0141,
+      "Speed limit": 0.0123,
+      "Urban or rural": 0.0101,
+      "Left the road": 0.0099,
+      "Oldest driver age": 0.0093,
+      "Road layout": 0.0079,
+      "Single vehicle": 0.0046,
+      "Road class": 0.004
+    },
+    "brier_raw": 0.2238,
+    "brier_calibrated": 0.181,
+    "mean_pred_raw": 0.4757,
+    "mean_pred_calibrated": 0.2821,
+    "calibrated_half": {
+      "accuracy": 0.739,
+      "precision": 0.5657,
+      "recall": 0.143
+    }
+  },
+  "location": {
+    "cell_m": 500,
+    "train_cells": 95022,
+    "test_cells": 95806,
+    "positive_pct": 16.42,
+    "best": "Poisson boosting",
+    "total_2025_adj_ksi": 27195,
+    "scored_share_pct": 78.98,
+    "table": [
+      {
+        "model": "Poisson boosting",
+        "roc_auc": 0.7642,
+        "pr_auc": 0.4602,
+        "top_100": 1.7517,
+        "top_500": 5.7868,
+        "top_1000": 9.2897,
+        "top_5000": 24.1456,
+        "top_10000": 34.3493
+      },
+      {
+        "model": "Random Forest",
+        "roc_auc": 0.7606,
+        "pr_auc": 0.4557,
+        "top_100": 1.6106,
+        "top_500": 5.7178,
+        "top_1000": 9.13,
+        "top_5000": 24.0229,
+        "top_10000": 33.9256
+      },
+      {
+        "model": "AdaBoost",
+        "roc_auc": 0.7621,
+        "pr_auc": 0.4548,
+        "top_100": 1.7969,
+        "top_500": 5.7456,
+        "top_1000": 9.1038,
+        "top_5000": 23.6581,
+        "top_10000": 34.0061
+      },
+      {
+        "model": "Decision Tree",
+        "roc_auc": 0.7587,
+        "pr_auc": 0.4423,
+        "top_100": 1.3238,
+        "top_500": 5.6675,
+        "top_1000": 8.9441,
+        "top_5000": 23.5233,
+        "top_10000": 33.7169
+      },
+      {
+        "model": "Past KSI count (baseline)",
+        "roc_auc": 0.6796,
+        "pr_auc": 0.3812,
+        "top_100": 1.7969,
+        "top_500": 5.3914,
+        "top_1000": 8.6132,
+        "top_5000": 22.0336,
+        "top_10000": 31.1622
+      }
+    ],
+    "gain_top5000": 2.13,
+    "gain_ci": [
+      1.78,
+      2.53
+    ],
+    "rtm_before": 6.4,
+    "rtm_after": 3.85,
+    "rtm_drop_pct": 39.8,
+    "features": [
+      "collisions",
+      "ksi",
+      "fatal",
+      "speed",
+      "rural",
+      "junction",
+      "dark",
+      "main_road",
+      "pedestrian",
+      "motorcycle",
+      "pedal_cycle",
+      "vehicles",
+      "years_active",
+      "collisions_last",
+      "ksi_last",
+      "near_collisions",
+      "near_ksi"
+    ],
+    "importance": {
+      "Past collisions in cell": 0.0889,
+      "Collisions last year": 0.0127,
+      "KSI in 8 nearby cells": 0.0095,
+      "Collisions in 8 nearby cells": 0.0084,
+      "Years with a collision": 0.0073,
+      "Main road share": 0.0033,
+      "Past KSI in cell": 0.0033,
+      "Rural share": 0.0031
+    }
+  },
+  "decision": {
+    "top10": [
+      {
+        "rank": 1,
+        "authority": "City of London",
+        "road": "A3",
+        "ksi": 23.0,
+        "collisions": 73,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 2,
+        "authority": "City of London",
+        "road": "A201",
+        "ksi": 28.0,
+        "collisions": 71,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 3,
+        "authority": "Southwark",
+        "road": "A201",
+        "ksi": 19.0,
+        "collisions": 83,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 4,
+        "authority": "Southwark",
+        "road": "A3",
+        "ksi": 19.0,
+        "collisions": 77,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 5,
+        "authority": "Westminster",
+        "road": "A401",
+        "ksi": 35.0,
+        "collisions": 150,
+        "pattern": "Pedestrian",
+        "review": "Pedestrian crossing and speed review"
+      },
+      {
+        "rank": 6,
+        "authority": "Westminster",
+        "road": "A40",
+        "ksi": 21.0,
+        "collisions": 89,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 7,
+        "authority": "Westminster",
+        "road": "A40",
+        "ksi": 29.0,
+        "collisions": 150,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 8,
+        "authority": "Hackney",
+        "road": "A107",
+        "ksi": 9.0,
+        "collisions": 66,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 9,
+        "authority": "Westminster",
+        "road": "A4",
+        "ksi": 19.0,
+        "collisions": 67,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      },
+      {
+        "rank": 10,
+        "authority": "Westminster",
+        "road": "A302",
+        "ksi": 13.0,
+        "collisions": 70,
+        "pattern": "Cycle",
+        "review": "Cycle separation and junction protection review"
+      }
+    ],
+    "pattern_top100": {
+      "Cycle": 69,
+      "Pedestrian": 15,
+      "Junction": 12,
+      "Darkness": 2,
+      "Motorcycle": 2
+    },
+    "pattern_top1000": {
+      "Cycle": 424,
+      "Pedestrian": 195,
+      "Junction": 195,
+      "Motorcycle": 99,
+      "Darkness": 87
+    },
+    "top100_near_hotspot_pct": 98.0,
+    "authorities_top100": {
+      "Westminster": 15,
+      "Tower Hamlets": 11,
+      "Southwark": 10,
+      "Hackney": 10,
+      "Lambeth": 7,
+      "City of London": 5,
+      "Hammersmith and Fulham": 4,
+      "Camden": 4
+    }
+  },
+  "runtime_minutes": 17.5
+}

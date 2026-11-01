@@ -1,0 +1,7 @@
+segment,collisions,share_pct,ksi_pct,road_user,road_class,light,junction,area,speed_band
+1,69697,31.5,23.9,Multi vehicle,Unclassified,Daylight,T junction,Urban,30 mph
+2,63039,28.5,29.7,Multi vehicle,A road,Daylight,Not at junction,Rural,60 mph
+3,10157,4.6,38.6,Single vehicle,A road,"Dark, no lighting",Not at junction,Rural,60 mph
+4,33708,15.2,31.3,Motorcycle involved,A road,Daylight,Not at junction,Urban,30 mph
+5,27124,12.3,30.8,Pedestrian hit,Unclassified,Daylight,Not at junction,Urban,30 mph
+6,17468,7.9,16.7,Multi vehicle,Unclassified,Daylight,Not at junction,Urban,30 mph

@@ -1,0 +1,7 @@
+segment,rules,hidden,hidden_holds_2025,example,example_lift,example_conf
+1,28,3,3,Road: Unclassified + Single vehicle,1.37,32.7
+2,78,16,16,Day: Weekend + Layout: Single carriageway,1.36,40.6
+3,17,5,5,"Light: Dark, no lighting + Pedestrian hit",1.78,68.9
+4,69,17,14,Road: Unclassified + Weather: Fine,1.39,43.4
+5,13,9,9,"Light: Dark, lit + Surface: Wet",1.26,39.0
+6,13,10,8,Area: Urban + Left the road,1.65,27.5
