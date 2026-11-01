@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+_build/
+*/CA2/data/
+*/CA3/data/
+*.pyc
